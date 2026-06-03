@@ -9,8 +9,8 @@
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=for-the-badge)](http://makeapullrequest.com)
 [![Stars](https://img.shields.io/github/stars/ZOMA827/jravist?style=for-the-badge&logo=github)](https://github.com/ZOMA827/jravist/stargazers)
 [![Forks](https://img.shields.io/github/forks/ZOMA827/jravist?style=for-the-badge&logo=github)](https://github.com/ZOMA827/jravist/network)
-[![Contributors](https://img.shields.io/github/contributors/ZOMA827/jravist?style=for-the-badge&logo=github)](https://github.com/ZOMA827/jravist/graphs/contributors)
-[![CodeQL](https://github.com/ZOMA827/jravist/actions/workflows/codeql-analysis.yml/badge.svg)](https://github.com/ZOMA827/jravist/actions/workflows/codeql-analysis.yml)
+[![Contributors](https://img.shields.io/github/contributors/ZOMA827/jarvis?style=for-the-badge&logo=github)](https://github.com/ZOMA827/jravist/graphs/contributors)
+[![CodeQL](https://github.com/ZOMA827/jarvis/actions/workflows/codeql-analysis.yml/badge.svg)](https://github.com/ZOMA827/jravist/actions/workflows/codeql-analysis.yml)
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-lakhdari--workspace-00c8ff?style=for-the-badge&logo=firefox&logoColor=white)](https://lakhdari-workspace.web.app/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Ilyes_Lakhdari-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/lakhdari-ilyes-6359b8351)

@@ -7,11 +7,15 @@
 [![Python Version](https://img.shields.io/badge/python-3.10+-blue.svg?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/downloads/)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg?style=for-the-badge)](https://opensource.org/licenses/MIT)
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=for-the-badge)](http://makeapullrequest.com)
-[![Stars](https://img.shields.io/github/stars/vannu07/jarvis?style=for-the-badge&logo=github)](https://github.com/vannu07/jarvis/stargazers)
-[![Forks](https://img.shields.io/github/forks/vannu07/jarvis?style=for-the-badge&logo=github)](https://github.com/vannu07/jarvis/network)
-[![CodeQL](https://github.com/vannu07/jarvis/actions/workflows/codeql-analysis.yml/badge.svg)](https://github.com/vannu07/jarvis/actions/workflows/codeql-analysis.yml)
+[![Stars](https://img.shields.io/github/stars/ZOMA827/jravist?style=for-the-badge&logo=github)](https://github.com/ZOMA827/jravist/stargazers)
+[![Forks](https://img.shields.io/github/forks/ZOMA827/jravist?style=for-the-badge&logo=github)](https://github.com/ZOMA827/jravist/network)
+[![Contributors](https://img.shields.io/github/contributors/ZOMA827/jravist?style=for-the-badge&logo=github)](https://github.com/ZOMA827/jravist/graphs/contributors)
+[![CodeQL](https://github.com/ZOMA827/jravist/actions/workflows/codeql-analysis.yml/badge.svg)](https://github.com/ZOMA827/jravist/actions/workflows/codeql-analysis.yml)
 
-<img src="https://raw.githubusercontent.com/vannu07/jarvis/main/frontend/assets/img/logo.ico" alt="JRAVIST Logo" width="150"/>
+[![Portfolio](https://img.shields.io/badge/Portfolio-lakhdari--workspace-00c8ff?style=for-the-badge&logo=firefox&logoColor=white)](https://lakhdari-workspace.web.app/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Ilyes_Lakhdari-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/lakhdari-ilyes-6359b8351)
+
+<img src="https://raw.githubusercontent.com/ZOMA827/jravist/main/frontend/assets/img/logo.ico" alt="JRAVIST Logo" width="150"/>
 
 *A production-ready holographic AI assistant powered by Google Gemini 2.5 Flash, with automatic function calling, a spatial holographic UI, and biometric authentication.*
 
@@ -284,8 +288,8 @@ HOTWORD_SENSITIVITY=0.5
 ### Step 1: Clone Repository
 
 ```bash
-git clone https://github.com/vannu07/jarvis.git
-cd jarvis
+git clone https://github.com/ZOMA827/jravist.git
+cd jravist
 ```
 
 ### Step 2: Setup Virtual Environment
@@ -855,8 +859,8 @@ git commit -m "docs(readme): update API key setup instructions"
 
 ### Top Contributors
 
-<a href="https://github.com/vannu07/jarvis/graphs/contributors">
-  <img src="https://contrib.rocks/image?repo=vannu07/jarvis" />
+<a href="https://github.com/ZOMA827/jravist/graphs/contributors">
+  <img src="https://contrib.rocks/image?repo=ZOMA827/jravist" />
 </a>
 
 </div>
@@ -901,6 +905,28 @@ git commit -m "docs(readme): update API key setup instructions"
 
 <div align="center">
 
+## About the Developer
+
+</div>
+
+<table>
+<tr>
+<td>
+
+**Ilyes Lakhdari** (إلياس لخداري) is a 3rd-year Computer Science student at Batna 2 University (Fesdis). Passionate about building intelligent, full-stack ecosystems and local AI tools. Creator of advanced projects like **Bimo AI**, **CareerCraft**, and the **Healthmate ecosystem**.
+
+[![Portfolio](https://img.shields.io/badge/Portfolio-lakhdari--workspace.web.app-00c8ff?style=for-the-badge&logo=firefox&logoColor=white)](https://lakhdari-workspace.web.app/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-lakhdari--ilyes-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/lakhdari-ilyes-6359b8351)
+[![GitHub](https://img.shields.io/badge/GitHub-ZOMA827-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ZOMA827)
+
+</td>
+</tr>
+</table>
+
+---
+
+<div align="center">
+
 ## License
 
 This project is licensed under the **MIT License**
@@ -932,7 +958,7 @@ Special thanks to these amazing projects:
 
 ## Support
 
-**Project Link:** [github.com/vannu07/jarvis](https://github.com/vannu07/jarvis)
+**Project Link:** [github.com/ZOMA827/jravist](https://github.com/ZOMA827/jravist)
 
 For issues, questions, or feature requests, please open an issue on GitHub
 
@@ -942,14 +968,14 @@ For issues, questions, or feature requests, please open an issue on GitHub
 
 If you find this project helpful, please consider starring the repository
 
-[![Star History Chart](https://api.star-history.com/svg?repos=vannu07/jarvis&type=Date)](https://star-history.com/#vannu07/jarvis&Date)
+[![Star History Chart](https://api.star-history.com/svg?repos=ZOMA827/jravist&type=Date)](https://star-history.com/#ZOMA827/jravist&Date)
 
 **Made with Python & Google Gemini**
 
-![](https://img.shields.io/github/stars/vannu07/jarvis?style=social)
-![](https://img.shields.io/github/forks/vannu07/jarvis?style=social)
-![](https://img.shields.io/github/watchers/vannu07/jarvis?style=social)
+![](https://img.shields.io/github/stars/ZOMA827/jravist?style=social)
+![](https://img.shields.io/github/forks/ZOMA827/jravist?style=social)
+![](https://img.shields.io/github/watchers/ZOMA827/jravist?style=social)
 
-**Copyright 2025**
+**Copyright © 2026 — Ilyes Lakhdari**
 
 </div>

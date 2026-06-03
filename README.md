@@ -1,21 +1,21 @@
 <div align="center">
 
-# JRAVIST — Holographic AI Core
+# jarvis — Holographic AI Core
 
 ### *Advanced Voice-Controlled AI Operating System*
 
 [![Python Version](https://img.shields.io/badge/python-3.10+-blue.svg?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/downloads/)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg?style=for-the-badge)](https://opensource.org/licenses/MIT)
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=for-the-badge)](http://makeapullrequest.com)
-[![Stars](https://img.shields.io/github/stars/ZOMA827/jravist?style=for-the-badge&logo=github)](https://github.com/ZOMA827/jravist/stargazers)
-[![Forks](https://img.shields.io/github/forks/ZOMA827/jravist?style=for-the-badge&logo=github)](https://github.com/ZOMA827/jravist/network)
-[![Contributors](https://img.shields.io/github/contributors/ZOMA827/jarvis?style=for-the-badge&logo=github)](https://github.com/ZOMA827/jravist/graphs/contributors)
-[![CodeQL](https://github.com/ZOMA827/jarvis/actions/workflows/codeql-analysis.yml/badge.svg)](https://github.com/ZOMA827/jravist/actions/workflows/codeql-analysis.yml)
+[![Stars](https://img.shields.io/github/stars/ZOMA827/jarvis?style=for-the-badge&logo=github)](https://github.com/ZOMA827/jarvis/stargazers)
+[![Forks](https://img.shields.io/github/forks/ZOMA827/jarvis?style=for-the-badge&logo=github)](https://github.com/ZOMA827/jarvis/network)
+[![Contributors](https://img.shields.io/github/contributors/ZOMA827/jarvis?style=for-the-badge&logo=github)](https://github.com/ZOMA827/jarvis/graphs/contributors)
+[![CodeQL](https://github.com/ZOMA827/jarvis/actions/workflows/codeql-analysis.yml/badge.svg)](https://github.com/ZOMA827/jarvis/actions/workflows/codeql-analysis.yml)
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-lakhdari--workspace-00c8ff?style=for-the-badge&logo=firefox&logoColor=white)](https://lakhdari-workspace.web.app/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Ilyes_Lakhdari-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/lakhdari-ilyes-6359b8351)
 
-<img src="https://raw.githubusercontent.com/ZOMA827/jarvis/main/frontend/assets/img/logo.ico" alt="JRAVIST Logo" width="150"/>
+<img src="https://raw.githubusercontent.com/ZOMA827/jarvis/main/frontend/assets/img/logo.ico" alt="jarvis Logo" width="150"/>
 
 *A production-ready holographic AI assistant powered by Google Gemini 2.5 Flash, with automatic function calling, a spatial holographic UI, and biometric authentication.*
 
@@ -29,9 +29,9 @@
 
 ## Overview
 
-JRAVIST is an intelligent holographic AI assistant that combines speech recognition, Gemini-powered natural language processing, automatic function calling, and computer vision to deliver a cinematic, spatial computing experience. The system features biometric authentication, a deep-space holographic UI with orbital rings and floating information nodes, and a direct bridge between voice commands and system actions — all powered by your own Google Gemini API keys.
+jarvis is an intelligent holographic AI assistant that combines speech recognition, Gemini-powered natural language processing, automatic function calling, and computer vision to deliver a cinematic, spatial computing experience. The system features biometric authentication, a deep-space holographic UI with orbital rings and floating information nodes, and a direct bridge between voice commands and system actions — all powered by your own Google Gemini API keys.
 
-> **⚠️ Important:** JRAVIST requires your own API keys to function. The system does **not** include any pre-configured credentials. See the [API Keys](#api-keys--required) section below before running the project.
+> **⚠️ Important:** jarvis requires your own API keys to function. The system does **not** include any pre-configured credentials. See the [API Keys](#api-keys--required) section below before running the project.
 
 <div align="center">
 
@@ -209,11 +209,11 @@ Audio Output: Speakers/Headphones
 
 ## API Keys — Required
 
-> **JRAVIST will not start without valid API keys.** The project ships with no pre-configured credentials. You must obtain your own keys and configure them before running.
+> **jarvis will not start without valid API keys.** The project ships with no pre-configured credentials. You must obtain your own keys and configure them before running.
 
 ### 1. Google Gemini API Keys (Core AI — Required)
 
-Gemini is the brain of JRAVIST. You need **at least one key**, but adding multiple keys enables the automatic rotation system that prevents quota interruptions.
+Gemini is the brain of jarvis. You need **at least one key**, but adding multiple keys enables the automatic rotation system that prevents quota interruptions.
 
 1. Go to [Google AI Studio](https://aistudio.google.com/app/apikey)
 2. Sign in with your Google account
@@ -229,7 +229,7 @@ GEMINI_API_KEYS = [
 ]
 ```
 
-> **Tip:** Gemini's free tier gives 1,500 requests/day per key. Adding 2–3 keys means JRAVIST can handle much heavier use before hitting limits.
+> **Tip:** Gemini's free tier gives 1,500 requests/day per key. Adding 2–3 keys means jarvis can handle much heavier use before hitting limits.
 
 ---
 
@@ -288,8 +288,8 @@ HOTWORD_SENSITIVITY=0.5
 ### Step 1: Clone Repository
 
 ```bash
-git clone https://github.com/ZOMA827/jravist.git
-cd jravist
+git clone https://github.com/ZOMA827/jarvis.git
+cd jarvis
 ```
 
 ### Step 2: Setup Virtual Environment
@@ -343,7 +343,7 @@ python backend/auth/trainer.py
 python run.py
 ```
 
-**JRAVIST will launch at** `http://localhost:8000`
+**jarvis will launch at** `http://localhost:8000`
 
 </div>
 
@@ -427,7 +427,7 @@ Jarvis, switch to idle mode
 
 ### How Gemini Function Calling Works
 
-When you give JRAVIST a command, it goes directly to **Gemini 2.5 Flash**. Gemini reads the command and automatically decides which tool to call — no manual `if/elif` parsing needed:
+When you give jarvis a command, it goes directly to **Gemini 2.5 Flash**. Gemini reads the command and automatically decides which tool to call — no manual `if/elif` parsing needed:
 
 | You say | Gemini calls |
 |:--------|:-------------|
@@ -469,7 +469,7 @@ Say **"Jarvis"** or **"Alexa"** followed by your command
 
 ## Weather Feature
 
-JRAVIST integrates with OpenWeatherMap API to provide real-time weather updates and forecasts via Gemini's automatic function calling.
+jarvis integrates with OpenWeatherMap API to provide real-time weather updates and forecasts via Gemini's automatic function calling.
 
 ### Setup OpenWeatherMap API
 
@@ -530,7 +530,7 @@ python -m testing.weather_test
 ## Project Structure
 
 ```
-jravist/
+jarvis/
 ├── backend/
 │   ├── auth/
 │   │   ├── haarcascade_frontalface_default.xml
@@ -568,7 +568,7 @@ jravist/
 
 ### Adding a New Holographic Tool
 
-JRAVIST uses Gemini's **automatic function calling**. To add a new tool that Gemini can invoke:
+jarvis uses Gemini's **automatic function calling**. To add a new tool that Gemini can invoke:
 
 **1. Define the tool function in `backend/command.py`**
 
@@ -710,8 +710,8 @@ CMD ["python", "run.py"]
 
 **Build & Run:**
 ```bash
-docker build -t jravist-ai .
-docker run -p 8000:8000 -v $(pwd)/jarvis.db:/app/jarvis.db jravist-ai
+docker build -t jarvis-ai .
+docker run -p 8000:8000 -v $(pwd)/jarvis.db:/app/jarvis.db jarvis-ai
 ```
 
 ---
@@ -859,8 +859,8 @@ git commit -m "docs(readme): update API key setup instructions"
 
 ### Top Contributors
 
-<a href="https://github.com/ZOMA827/jravist/graphs/contributors">
-  <img src="https://contrib.rocks/image?repo=ZOMA827/jravist" />
+<a href="https://github.com/ZOMA827/jarvis/graphs/contributors">
+  <img src="https://contrib.rocks/image?repo=ZOMA827/jarvis" />
 </a>
 
 </div>
@@ -958,7 +958,7 @@ Special thanks to these amazing projects:
 
 ## Support
 
-**Project Link:** [github.com/ZOMA827/jravist](https://github.com/ZOMA827/jravist)
+**Project Link:** [github.com/ZOMA827/jarvis](https://github.com/ZOMA827/jarvis)
 
 For issues, questions, or feature requests, please open an issue on GitHub
 
@@ -968,13 +968,13 @@ For issues, questions, or feature requests, please open an issue on GitHub
 
 If you find this project helpful, please consider starring the repository
 
-[![Star History Chart](https://api.star-history.com/svg?repos=ZOMA827/jravist&type=Date)](https://star-history.com/#ZOMA827/jravist&Date)
+[![Star History Chart](https://api.star-history.com/svg?repos=ZOMA827/jarvis&type=Date)](https://star-history.com/#ZOMA827/jarvis&Date)
 
 **Made with Python & Google Gemini**
 
-![](https://img.shields.io/github/stars/ZOMA827/jravist?style=social)
-![](https://img.shields.io/github/forks/ZOMA827/jravist?style=social)
-![](https://img.shields.io/github/watchers/ZOMA827/jravist?style=social)
+![](https://img.shields.io/github/stars/ZOMA827/jarvis?style=social)
+![](https://img.shields.io/github/forks/ZOMA827/jarvis?style=social)
+![](https://img.shields.io/github/watchers/ZOMA827/jarvis?style=social)
 
 **Copyright © 2026 — Ilyes Lakhdari**
 

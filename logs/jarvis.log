@@ -1,0 +1,445 @@
+2026-05-30 15:42:58,272 - geventwebsocket.handler - INFO - 127.0.0.1 - - [2026-05-30 15:42:58] "GET /index.html HTTP/1.1" 200 28230 0.002280
+2026-05-30 15:42:58,277 - geventwebsocket.handler - INFO - 127.0.0.1 - - [2026-05-30 15:42:58] "GET /index.html HTTP/1.1" 200 28230 0.001998
+2026-05-30 15:42:58,309 - geventwebsocket.handler - INFO - 127.0.0.1 - - [2026-05-30 15:42:58] "GET /assets/vendore/texllate/animate.css HTTP/1.1" 200 61438 0.003539
+2026-05-30 15:42:58,314 - geventwebsocket.handler - INFO - 127.0.0.1 - - [2026-05-30 15:42:58] "GET /style.css HTTP/1.1" 200 5470 0.001997
+2026-05-30 15:42:58,319 - geventwebsocket.handler - INFO - 127.0.0.1 - - [2026-05-30 15:42:58] "GET /script.js HTTP/1.1" 200 8775 0.000995
+2026-05-30 15:42:58,322 - geventwebsocket.handler - INFO - 127.0.0.1 - - [2026-05-30 15:42:58] "GET /assets/vendore/texllate/jquery.fittext.js HTTP/1.1" 200 1340 0.001015
+2026-05-30 15:42:58,327 - geventwebsocket.handler - INFO - 127.0.0.1 - - [2026-05-30 15:42:58] "GET /assets/vendore/texllate/jquery.lettering.js HTTP/1.1" 200 2223 0.001997
+2026-05-30 15:42:58,332 - geventwebsocket.handler - INFO - 127.0.0.1 - - [2026-05-30 15:42:58] "GET /main.js HTTP/1.1" 200 2683 0.002515
+2026-05-30 15:42:58,334 - geventwebsocket.handler - INFO - 127.0.0.1 - - [2026-05-30 15:42:58] "GET /eel.js HTTP/1.1" 200 6049 0.000000
+2026-05-30 15:42:58,338 - geventwebsocket.handler - INFO - 127.0.0.1 - - [2026-05-30 15:42:58] "GET /controller.js HTTP/1.1" 200 2351 0.000998
+2026-05-30 15:42:58,938 - geventwebsocket.handler - INFO - 127.0.0.1 - - [2026-05-30 15:42:58] "GET /assets/vendore/texllate/animate.css HTTP/1.1" 200 61438 0.002430
+2026-05-30 15:42:58,941 - geventwebsocket.handler - INFO - 127.0.0.1 - - [2026-05-30 15:42:58] "GET /style.css HTTP/1.1" 200 5470 0.002657
+2026-05-30 15:42:59,013 - geventwebsocket.handler - INFO - 127.0.0.1 - - [2026-05-30 15:42:59] "GET /script.js HTTP/1.1" 200 8775 0.001958
+2026-05-30 15:42:59,376 - geventwebsocket.handler - INFO - 127.0.0.1 - - [2026-05-30 15:42:59] "GET /assets/vendore/texllate/jquery.fittext.js HTTP/1.1" 200 1340 0.001537
+2026-05-30 15:42:59,379 - geventwebsocket.handler - INFO - 127.0.0.1 - - [2026-05-30 15:42:59] "GET /assets/vendore/texllate/jquery.lettering.js HTTP/1.1" 200 2223 0.000983
+2026-05-30 15:42:59,883 - geventwebsocket.handler - INFO - 127.0.0.1 - - [2026-05-30 15:42:59] "GET /main.js HTTP/1.1" 200 2683 0.000996
+2026-05-30 15:42:59,886 - geventwebsocket.handler - INFO - 127.0.0.1 - - [2026-05-30 15:42:59] "GET /eel.js HTTP/1.1" 200 6049 0.000000
+2026-05-30 15:42:59,891 - geventwebsocket.handler - INFO - 127.0.0.1 - - [2026-05-30 15:42:59] "GET /controller.js HTTP/1.1" 200 2351 0.001240
+2026-05-30 15:43:01,701 - geventwebsocket.handler - INFO - 127.0.0.1 - - [2026-05-30 15:43:01] "GET /frontend/assets/img/logo.ico HTTP/1.1" 404 899 0.004945
+2026-05-30 15:43:01,706 - geventwebsocket.handler - INFO - 127.0.0.1 - - [2026-05-30 15:43:01] "GET /frontend/assets/img/logo.ico HTTP/1.1" 404 899 0.000996
+2026-05-30 15:53:39,592 - geventwebsocket.handler - INFO - 127.0.0.1 - - [2026-05-30 15:53:39] "GET /index.html HTTP/1.1" 200 28230 0.001100
+2026-05-30 15:53:39,593 - geventwebsocket.handler - INFO - 127.0.0.1 - - [2026-05-30 15:53:39] "GET /index.html HTTP/1.1" 200 28230 0.000000
+2026-05-30 15:53:39,604 - geventwebsocket.handler - INFO - 127.0.0.1 - - [2026-05-30 15:53:39] "GET /assets/vendore/texllate/animate.css HTTP/1.1" 200 61438 0.002247
+2026-05-30 15:53:39,608 - geventwebsocket.handler - INFO - 127.0.0.1 - - [2026-05-30 15:53:39] "GET /style.css HTTP/1.1" 200 5470 0.001008
+2026-05-30 15:53:39,609 - geventwebsocket.handler - INFO - 127.0.0.1 - - [2026-05-30 15:53:39] "GET /script.js HTTP/1.1" 200 8775 0.001505
+2026-05-30 15:53:39,611 - geventwebsocket.handler - INFO - 127.0.0.1 - - [2026-05-30 15:53:39] "GET /assets/vendore/texllate/jquery.fittext.js HTTP/1.1" 200 1340 0.001032
+2026-05-30 15:53:39,612 - geventwebsocket.handler - INFO - 127.0.0.1 - - [2026-05-30 15:53:39] "GET /assets/vendore/texllate/animate.css HTTP/1.1" 200 61438 0.001506
+2026-05-30 15:53:39,614 - geventwebsocket.handler - INFO - 127.0.0.1 - - [2026-05-30 15:53:39] "GET /assets/vendore/texllate/jquery.lettering.js HTTP/1.1" 200 2223 0.000999
+2026-05-30 15:53:39,615 - geventwebsocket.handler - INFO - 127.0.0.1 - - [2026-05-30 15:53:39] "GET /main.js HTTP/1.1" 200 2683 0.001002
+2026-05-30 15:53:39,616 - geventwebsocket.handler - INFO - 127.0.0.1 - - [2026-05-30 15:53:39] "GET /eel.js HTTP/1.1" 200 6049 0.000999
+2026-05-30 15:53:39,618 - geventwebsocket.handler - INFO - 127.0.0.1 - - [2026-05-30 15:53:39] "GET /controller.js HTTP/1.1" 200 2351 0.001509
+2026-05-30 15:53:39,621 - geventwebsocket.handler - INFO - 127.0.0.1 - - [2026-05-30 15:53:39] "GET /style.css HTTP/1.1" 200 5470 0.000682
+2026-05-30 15:53:39,664 - geventwebsocket.handler - INFO - 127.0.0.1 - - [2026-05-30 15:53:39] "GET /script.js HTTP/1.1" 200 8775 0.001510
+2026-05-30 15:53:39,675 - geventwebsocket.handler - INFO - 127.0.0.1 - - [2026-05-30 15:53:39] "GET /assets/vendore/texllate/jquery.fittext.js HTTP/1.1" 200 1340 0.001000
+2026-05-30 15:53:39,677 - geventwebsocket.handler - INFO - 127.0.0.1 - - [2026-05-30 15:53:39] "GET /assets/vendore/texllate/jquery.lettering.js HTTP/1.1" 200 2223 0.000000
+2026-05-30 15:53:40,109 - geventwebsocket.handler - INFO - 127.0.0.1 - - [2026-05-30 15:53:40] "GET /main.js HTTP/1.1" 200 2683 0.001012
+2026-05-30 15:53:40,110 - geventwebsocket.handler - INFO - 127.0.0.1 - - [2026-05-30 15:53:40] "GET /eel.js HTTP/1.1" 200 6049 0.000000
+2026-05-30 15:53:40,112 - geventwebsocket.handler - INFO - 127.0.0.1 - - [2026-05-30 15:53:40] "GET /controller.js HTTP/1.1" 200 2351 0.001016
+2026-05-30 15:53:40,509 - geventwebsocket.handler - INFO - 127.0.0.1 - - [2026-05-30 15:53:40] "GET /frontend/assets/img/logo.ico HTTP/1.1" 404 899 0.003521
+2026-05-30 15:53:40,510 - geventwebsocket.handler - INFO - 127.0.0.1 - - [2026-05-30 15:53:40] "GET /frontend/assets/img/logo.ico HTTP/1.1" 404 899 0.000000
+2026-05-30 15:59:38,192 - comtypes.client._code_cache - INFO - Could not import comtypes.gen, trying to create it.
+2026-05-30 15:59:38,193 - comtypes.client._code_cache - INFO - Created comtypes.gen directory: 'C:\Users\admin\Desktop\Jarvis\jarvis-main\venv\Lib\site-packages\comtypes\gen'
+2026-05-30 15:59:38,193 - comtypes.client._code_cache - INFO - Writing __init__.py file: 'C:\Users\admin\Desktop\Jarvis\jarvis-main\venv\Lib\site-packages\comtypes\gen\__init__.py'
+2026-05-30 15:59:38,204 - comtypes.client._code_cache - INFO - Using writeable comtypes cache directory: 'C:\Users\admin\Desktop\Jarvis\jarvis-main\venv\Lib\site-packages\comtypes\gen'
+2026-05-30 15:59:38,222 - comtypes.client._generate - INFO - Could not import comtypes.gen._C866CA3A_32F7_11D2_9602_00C04F8EE628_0_5_4: No module named 'comtypes.gen._C866CA3A_32F7_11D2_9602_00C04F8EE628_0_5_4'
+2026-05-30 15:59:38,225 - comtypes.client._generate - INFO - # Generating comtypes.gen._C866CA3A_32F7_11D2_9602_00C04F8EE628_0_5_4
+2026-05-30 15:59:38,286 - comtypes.client._generate - INFO - # Generating comtypes.gen.SpeechLib
+2026-05-30 15:59:38,293 - comtypes.client._generate - INFO - Could not import comtypes.gen._00020430_0000_0000_C000_000000000046_0_2_0: No module named 'comtypes.gen._00020430_0000_0000_C000_000000000046_0_2_0'
+2026-05-30 15:59:38,293 - comtypes.client._generate - INFO - # Generating comtypes.gen._00020430_0000_0000_C000_000000000046_0_2_0
+2026-05-30 15:59:38,300 - comtypes.client._generate - INFO - # Generating comtypes.gen.stdole
+2026-05-30 16:01:37,410 - comtypes.client._code_cache - INFO - Imported existing <module 'comtypes.gen' from 'C:\\Users\\admin\\Desktop\\Jarvis\\jarvis-main\\venv\\Lib\\site-packages\\comtypes\\gen\\__init__.py'>
+2026-05-30 16:01:37,410 - comtypes.client._code_cache - INFO - Using writeable comtypes cache directory: 'C:\Users\admin\Desktop\Jarvis\jarvis-main\venv\Lib\site-packages\comtypes\gen'
+2026-05-30 16:03:12,233 - comtypes.client._code_cache - INFO - Imported existing <module 'comtypes.gen' from 'C:\\Users\\admin\\Desktop\\Jarvis\\jarvis-main\\venv\\Lib\\site-packages\\comtypes\\gen\\__init__.py'>
+2026-05-30 16:03:12,233 - comtypes.client._code_cache - INFO - Using writeable comtypes cache directory: 'C:\Users\admin\Desktop\Jarvis\jarvis-main\venv\Lib\site-packages\comtypes\gen'
+2026-05-30 16:08:57,712 - comtypes.client._code_cache - INFO - Imported existing <module 'comtypes.gen' from 'C:\\Users\\admin\\Desktop\\Jarvis\\jarvis-main\\venv\\Lib\\site-packages\\comtypes\\gen\\__init__.py'>
+2026-05-30 16:08:57,712 - comtypes.client._code_cache - INFO - Using writeable comtypes cache directory: 'C:\Users\admin\Desktop\Jarvis\jarvis-main\venv\Lib\site-packages\comtypes\gen'
+2026-05-30 16:09:01,762 - geventwebsocket.handler - INFO - 127.0.0.1 - - [2026-05-30 16:09:01] "GET /index.html HTTP/1.1" 200 28230 0.000995
+2026-05-30 16:09:01,776 - geventwebsocket.handler - INFO - 127.0.0.1 - - [2026-05-30 16:09:01] "GET /assets/vendore/texllate/animate.css HTTP/1.1" 200 61438 0.001398
+2026-05-30 16:09:01,777 - geventwebsocket.handler - INFO - 127.0.0.1 - - [2026-05-30 16:09:01] "GET /style.css HTTP/1.1" 200 5470 0.001213
+2026-05-30 16:09:01,777 - geventwebsocket.handler - INFO - 127.0.0.1 - - [2026-05-30 16:09:01] "GET /script.js HTTP/1.1" 200 8775 0.000000
+2026-05-30 16:09:01,779 - geventwebsocket.handler - INFO - 127.0.0.1 - - [2026-05-30 16:09:01] "GET /assets/vendore/texllate/jquery.fittext.js HTTP/1.1" 200 1340 0.000000
+2026-05-30 16:09:01,780 - geventwebsocket.handler - INFO - 127.0.0.1 - - [2026-05-30 16:09:01] "GET /assets/vendore/texllate/jquery.lettering.js HTTP/1.1" 200 2223 0.000000
+2026-05-30 16:09:01,781 - geventwebsocket.handler - INFO - 127.0.0.1 - - [2026-05-30 16:09:01] "GET /main.js HTTP/1.1" 200 2683 0.000000
+2026-05-30 16:09:01,782 - geventwebsocket.handler - INFO - 127.0.0.1 - - [2026-05-30 16:09:01] "GET /eel.js HTTP/1.1" 200 6025 0.000000
+2026-05-30 16:09:01,784 - geventwebsocket.handler - INFO - 127.0.0.1 - - [2026-05-30 16:09:01] "GET /controller.js HTTP/1.1" 200 2351 0.001214
+2026-05-30 16:09:10,205 - geventwebsocket.handler - INFO - 127.0.0.1 - - [2026-05-30 16:09:10] "GET /frontend/assets/img/logo.ico HTTP/1.1" 404 899 0.003000
+2026-05-30 16:12:18,400 - comtypes.client._code_cache - INFO - Imported existing <module 'comtypes.gen' from 'C:\\Users\\admin\\Desktop\\Jarvis\\jarvis-main\\venv\\Lib\\site-packages\\comtypes\\gen\\__init__.py'>
+2026-05-30 16:12:18,400 - comtypes.client._code_cache - INFO - Using writeable comtypes cache directory: 'C:\Users\admin\Desktop\Jarvis\jarvis-main\venv\Lib\site-packages\comtypes\gen'
+2026-05-30 16:12:22,405 - geventwebsocket.handler - INFO - 127.0.0.1 - - [2026-05-30 16:12:22] "GET /index.html HTTP/1.1" 200 28230 0.001116
+2026-05-30 16:12:22,417 - geventwebsocket.handler - INFO - 127.0.0.1 - - [2026-05-30 16:12:22] "GET /assets/vendore/texllate/animate.css HTTP/1.1" 200 61438 0.001003
+2026-05-30 16:12:22,418 - geventwebsocket.handler - INFO - 127.0.0.1 - - [2026-05-30 16:12:22] "GET /style.css HTTP/1.1" 200 5470 0.000000
+2026-05-30 16:12:22,425 - geventwebsocket.handler - INFO - 127.0.0.1 - - [2026-05-30 16:12:22] "GET /script.js HTTP/1.1" 200 8775 0.001119
+2026-05-30 16:12:22,427 - geventwebsocket.handler - INFO - 127.0.0.1 - - [2026-05-30 16:12:22] "GET /assets/vendore/texllate/jquery.fittext.js HTTP/1.1" 200 1340 0.001132
+2026-05-30 16:12:22,429 - geventwebsocket.handler - INFO - 127.0.0.1 - - [2026-05-30 16:12:22] "GET /main.js HTTP/1.1" 200 2683 0.000000
+2026-05-30 16:12:22,431 - geventwebsocket.handler - INFO - 127.0.0.1 - - [2026-05-30 16:12:22] "GET /assets/vendore/texllate/jquery.lettering.js HTTP/1.1" 200 2223 0.001175
+2026-05-30 16:12:22,432 - geventwebsocket.handler - INFO - 127.0.0.1 - - [2026-05-30 16:12:22] "GET /eel.js HTTP/1.1" 200 6025 0.000000
+2026-05-30 16:12:22,434 - geventwebsocket.handler - INFO - 127.0.0.1 - - [2026-05-30 16:12:22] "GET /controller.js HTTP/1.1" 200 2351 0.000999
+2026-05-30 16:14:03,702 - comtypes.client._code_cache - INFO - Imported existing <module 'comtypes.gen' from 'C:\\Users\\admin\\Desktop\\Jarvis\\jarvis-main\\venv\\Lib\\site-packages\\comtypes\\gen\\__init__.py'>
+2026-05-30 16:14:03,703 - comtypes.client._code_cache - INFO - Using writeable comtypes cache directory: 'C:\Users\admin\Desktop\Jarvis\jarvis-main\venv\Lib\site-packages\comtypes\gen'
+2026-05-30 16:14:07,993 - geventwebsocket.handler - INFO - 127.0.0.1 - - [2026-05-30 16:14:07] "GET /index.html HTTP/1.1" 200 28230 0.001344
+2026-05-30 16:14:08,012 - geventwebsocket.handler - INFO - 127.0.0.1 - - [2026-05-30 16:14:08] "GET /assets/vendore/texllate/animate.css HTTP/1.1" 200 61438 0.001251
+2026-05-30 16:14:08,012 - geventwebsocket.handler - INFO - 127.0.0.1 - - [2026-05-30 16:14:08] "GET /style.css HTTP/1.1" 200 5470 0.000000
+2026-05-30 16:14:08,019 - geventwebsocket.handler - INFO - 127.0.0.1 - - [2026-05-30 16:14:08] "GET /script.js HTTP/1.1" 200 8775 0.000000
+2026-05-30 16:14:08,020 - geventwebsocket.handler - INFO - 127.0.0.1 - - [2026-05-30 16:14:08] "GET /assets/vendore/texllate/jquery.fittext.js HTTP/1.1" 200 1340 0.001217
+2026-05-30 16:14:08,022 - geventwebsocket.handler - INFO - 127.0.0.1 - - [2026-05-30 16:14:08] "GET /assets/vendore/texllate/jquery.lettering.js HTTP/1.1" 200 2223 0.001007
+2026-05-30 16:14:08,024 - geventwebsocket.handler - INFO - 127.0.0.1 - - [2026-05-30 16:14:08] "GET /main.js HTTP/1.1" 200 2683 0.000998
+2026-05-30 16:14:08,025 - geventwebsocket.handler - INFO - 127.0.0.1 - - [2026-05-30 16:14:08] "GET /eel.js HTTP/1.1" 200 6025 0.001021
+2026-05-30 16:14:08,026 - geventwebsocket.handler - INFO - 127.0.0.1 - - [2026-05-30 16:14:08] "GET /controller.js HTTP/1.1" 200 2351 0.001003
+2026-05-30 16:14:32,320 - geventwebsocket.handler - INFO - 127.0.0.1 - - [2026-05-30 16:14:32] "GET /frontend/assets/img/logo.ico HTTP/1.1" 404 899 0.002087
+2026-05-30 16:56:49,114 - comtypes.client._code_cache - INFO - Imported existing <module 'comtypes.gen' from 'C:\\Users\\admin\\Desktop\\Jarvis\\jarvis-main\\venv\\Lib\\site-packages\\comtypes\\gen\\__init__.py'>
+2026-05-30 16:56:49,115 - comtypes.client._code_cache - INFO - Using writeable comtypes cache directory: 'C:\Users\admin\Desktop\Jarvis\jarvis-main\venv\Lib\site-packages\comtypes\gen'
+2026-05-30 16:57:01,314 - geventwebsocket.handler - INFO - 127.0.0.1 - - [2026-05-30 16:57:01] "GET /index.html HTTP/1.1" 200 28230 0.004080
+2026-05-30 16:57:01,712 - geventwebsocket.handler - INFO - 127.0.0.1 - - [2026-05-30 16:57:01] "GET /assets/vendore/texllate/animate.css HTTP/1.1" 200 61438 0.024905
+2026-05-30 16:57:01,732 - geventwebsocket.handler - INFO - 127.0.0.1 - - [2026-05-30 16:57:01] "GET /style.css HTTP/1.1" 200 5470 0.018773
+2026-05-30 16:57:01,736 - geventwebsocket.handler - INFO - 127.0.0.1 - - [2026-05-30 16:57:01] "GET /script.js HTTP/1.1" 200 8775 0.001153
+2026-05-30 16:57:01,739 - geventwebsocket.handler - INFO - 127.0.0.1 - - [2026-05-30 16:57:01] "GET /assets/vendore/texllate/jquery.fittext.js HTTP/1.1" 200 1340 0.002002
+2026-05-30 16:57:01,742 - geventwebsocket.handler - INFO - 127.0.0.1 - - [2026-05-30 16:57:01] "GET /assets/vendore/texllate/jquery.lettering.js HTTP/1.1" 200 2223 0.002387
+2026-05-30 16:57:01,745 - geventwebsocket.handler - INFO - 127.0.0.1 - - [2026-05-30 16:57:01] "GET /main.js HTTP/1.1" 200 2683 0.001999
+2026-05-30 16:57:01,748 - geventwebsocket.handler - INFO - 127.0.0.1 - - [2026-05-30 16:57:01] "GET /controller.js HTTP/1.1" 200 2351 0.001502
+2026-05-30 16:57:01,751 - geventwebsocket.handler - INFO - 127.0.0.1 - - [2026-05-30 16:57:01] "GET /eel.js HTTP/1.1" 200 6025 0.000997
+2026-05-30 16:57:02,208 - geventwebsocket.handler - INFO - 127.0.0.1 - - [2026-05-30 16:57:02] "GET /frontend/assets/img/logo.ico HTTP/1.1" 404 899 0.004996
+2026-05-30 17:05:06,529 - comtypes.client._code_cache - INFO - Imported existing <module 'comtypes.gen' from 'C:\\Users\\admin\\Desktop\\Jarvis\\jarvis-main\\venv\\Lib\\site-packages\\comtypes\\gen\\__init__.py'>
+2026-05-30 17:05:06,529 - comtypes.client._code_cache - INFO - Using writeable comtypes cache directory: 'C:\Users\admin\Desktop\Jarvis\jarvis-main\venv\Lib\site-packages\comtypes\gen'
+2026-05-30 17:05:22,900 - geventwebsocket.handler - INFO - 127.0.0.1 - - [2026-05-30 17:05:22] "GET /index.html HTTP/1.1" 200 28230 0.003000
+2026-05-30 17:05:23,271 - geventwebsocket.handler - INFO - 127.0.0.1 - - [2026-05-30 17:05:23] "GET /assets/vendore/texllate/animate.css HTTP/1.1" 200 61438 0.002002
+2026-05-30 17:05:23,275 - geventwebsocket.handler - INFO - 127.0.0.1 - - [2026-05-30 17:05:23] "GET /style.css HTTP/1.1" 200 5470 0.002275
+2026-05-30 17:05:23,277 - geventwebsocket.handler - INFO - 127.0.0.1 - - [2026-05-30 17:05:23] "GET /script.js HTTP/1.1" 200 8775 0.000981
+2026-05-30 17:05:23,279 - geventwebsocket.handler - INFO - 127.0.0.1 - - [2026-05-30 17:05:23] "GET /assets/vendore/texllate/jquery.fittext.js HTTP/1.1" 200 1340 0.000993
+2026-05-30 17:05:23,283 - geventwebsocket.handler - INFO - 127.0.0.1 - - [2026-05-30 17:05:23] "GET /assets/vendore/texllate/jquery.lettering.js HTTP/1.1" 200 2223 0.002002
+2026-05-30 17:05:23,286 - geventwebsocket.handler - INFO - 127.0.0.1 - - [2026-05-30 17:05:23] "GET /main.js HTTP/1.1" 200 2683 0.001998
+2026-05-30 17:05:23,291 - geventwebsocket.handler - INFO - 127.0.0.1 - - [2026-05-30 17:05:23] "GET /controller.js HTTP/1.1" 200 2351 0.003019
+2026-05-30 17:05:23,294 - geventwebsocket.handler - INFO - 127.0.0.1 - - [2026-05-30 17:05:23] "GET /eel.js HTTP/1.1" 200 6025 0.000999
+2026-05-30 17:05:23,792 - geventwebsocket.handler - INFO - 127.0.0.1 - - [2026-05-30 17:05:23] "GET /frontend/assets/img/logo.ico HTTP/1.1" 404 899 0.004682
+2026-05-30 17:08:29,519 - comtypes.client._code_cache - INFO - Imported existing <module 'comtypes.gen' from 'C:\\Users\\admin\\Desktop\\Jarvis\\jarvis-main\\venv\\Lib\\site-packages\\comtypes\\gen\\__init__.py'>
+2026-05-30 17:08:29,520 - comtypes.client._code_cache - INFO - Using writeable comtypes cache directory: 'C:\Users\admin\Desktop\Jarvis\jarvis-main\venv\Lib\site-packages\comtypes\gen'
+2026-05-30 17:08:42,601 - geventwebsocket.handler - INFO - 127.0.0.1 - - [2026-05-30 17:08:42] "GET /index.html HTTP/1.1" 200 28230 0.002031
+2026-05-30 17:08:42,956 - geventwebsocket.handler - INFO - 127.0.0.1 - - [2026-05-30 17:08:42] "GET /assets/vendore/texllate/animate.css HTTP/1.1" 200 61438 0.000993
+2026-05-30 17:08:42,961 - geventwebsocket.handler - INFO - 127.0.0.1 - - [2026-05-30 17:08:42] "GET /style.css HTTP/1.1" 200 5470 0.002016
+2026-05-30 17:08:42,963 - geventwebsocket.handler - INFO - 127.0.0.1 - - [2026-05-30 17:08:42] "GET /script.js HTTP/1.1" 200 8775 0.001265
+2026-05-30 17:08:42,966 - geventwebsocket.handler - INFO - 127.0.0.1 - - [2026-05-30 17:08:42] "GET /assets/vendore/texllate/jquery.fittext.js HTTP/1.1" 200 1340 0.002686
+2026-05-30 17:08:42,968 - geventwebsocket.handler - INFO - 127.0.0.1 - - [2026-05-30 17:08:42] "GET /assets/vendore/texllate/jquery.lettering.js HTTP/1.1" 200 2223 0.002264
+2026-05-30 17:08:42,970 - geventwebsocket.handler - INFO - 127.0.0.1 - - [2026-05-30 17:08:42] "GET /eel.js HTTP/1.1" 200 6025 0.000000
+2026-05-30 17:08:42,974 - geventwebsocket.handler - INFO - 127.0.0.1 - - [2026-05-30 17:08:42] "GET /controller.js HTTP/1.1" 200 2351 0.002024
+2026-05-30 17:08:42,978 - geventwebsocket.handler - INFO - 127.0.0.1 - - [2026-05-30 17:08:42] "GET /main.js HTTP/1.1" 200 2683 0.002052
+2026-05-30 17:08:43,396 - geventwebsocket.handler - INFO - 127.0.0.1 - - [2026-05-30 17:08:43] "GET /frontend/assets/img/logo.ico HTTP/1.1" 404 899 0.006542
+2026-05-30 17:19:40,172 - comtypes.client._code_cache - INFO - Imported existing <module 'comtypes.gen' from 'C:\\Users\\admin\\Desktop\\Jarvis\\jarvis-main\\venv\\Lib\\site-packages\\comtypes\\gen\\__init__.py'>
+2026-05-30 17:19:40,174 - comtypes.client._code_cache - INFO - Using writeable comtypes cache directory: 'C:\Users\admin\Desktop\Jarvis\jarvis-main\venv\Lib\site-packages\comtypes\gen'
+2026-05-30 17:19:57,157 - geventwebsocket.handler - INFO - 127.0.0.1 - - [2026-05-30 17:19:57] "GET /index.html HTTP/1.1" 200 28230 0.002254
+2026-05-30 17:19:57,512 - geventwebsocket.handler - INFO - 127.0.0.1 - - [2026-05-30 17:19:57] "GET /assets/vendore/texllate/animate.css HTTP/1.1" 200 61438 0.000974
+2026-05-30 17:19:57,515 - geventwebsocket.handler - INFO - 127.0.0.1 - - [2026-05-30 17:19:57] "GET /style.css HTTP/1.1" 200 5470 0.001499
+2026-05-30 17:19:57,517 - geventwebsocket.handler - INFO - 127.0.0.1 - - [2026-05-30 17:19:57] "GET /script.js HTTP/1.1" 200 8775 0.001004
+2026-05-30 17:19:57,521 - geventwebsocket.handler - INFO - 127.0.0.1 - - [2026-05-30 17:19:57] "GET /assets/vendore/texllate/jquery.fittext.js HTTP/1.1" 200 1340 0.002264
+2026-05-30 17:19:57,523 - geventwebsocket.handler - INFO - 127.0.0.1 - - [2026-05-30 17:19:57] "GET /assets/vendore/texllate/jquery.lettering.js HTTP/1.1" 200 2223 0.001243
+2026-05-30 17:19:57,526 - geventwebsocket.handler - INFO - 127.0.0.1 - - [2026-05-30 17:19:57] "GET /main.js HTTP/1.1" 200 2683 0.002223
+2026-05-30 17:19:57,531 - geventwebsocket.handler - INFO - 127.0.0.1 - - [2026-05-30 17:19:57] "GET /controller.js HTTP/1.1" 200 2351 0.002516
+2026-05-30 17:19:57,533 - geventwebsocket.handler - INFO - 127.0.0.1 - - [2026-05-30 17:19:57] "GET /eel.js HTTP/1.1" 200 6025 0.000000
+2026-05-30 17:19:58,126 - geventwebsocket.handler - INFO - 127.0.0.1 - - [2026-05-30 17:19:58] "GET /frontend/assets/img/logo.ico HTTP/1.1" 404 899 0.008002
+2026-05-30 17:21:17,090 - comtypes.client._code_cache - INFO - Imported existing <module 'comtypes.gen' from 'C:\\Users\\admin\\Desktop\\Jarvis\\jarvis-main\\venv\\Lib\\site-packages\\comtypes\\gen\\__init__.py'>
+2026-05-30 17:21:17,091 - comtypes.client._code_cache - INFO - Using writeable comtypes cache directory: 'C:\Users\admin\Desktop\Jarvis\jarvis-main\venv\Lib\site-packages\comtypes\gen'
+2026-05-30 17:21:21,468 - geventwebsocket.handler - INFO - 127.0.0.1 - - [2026-05-30 17:21:21] "GET /index.html HTTP/1.1" 200 28230 0.002003
+2026-05-30 17:21:21,494 - geventwebsocket.handler - INFO - 127.0.0.1 - - [2026-05-30 17:21:21] "GET /assets/vendore/texllate/animate.css HTTP/1.1" 200 61438 0.002002
+2026-05-30 17:21:21,498 - geventwebsocket.handler - INFO - 127.0.0.1 - - [2026-05-30 17:21:21] "GET /style.css HTTP/1.1" 200 5470 0.003000
+2026-05-30 17:21:21,509 - geventwebsocket.handler - INFO - 127.0.0.1 - - [2026-05-30 17:21:21] "GET /script.js HTTP/1.1" 200 8775 0.003015
+2026-05-30 17:21:21,514 - geventwebsocket.handler - INFO - 127.0.0.1 - - [2026-05-30 17:21:21] "GET /assets/vendore/texllate/jquery.fittext.js HTTP/1.1" 200 1340 0.002419
+2026-05-30 17:21:21,518 - geventwebsocket.handler - INFO - 127.0.0.1 - - [2026-05-30 17:21:21] "GET /assets/vendore/texllate/jquery.lettering.js HTTP/1.1" 200 2223 0.001999
+2026-05-30 17:21:21,520 - geventwebsocket.handler - INFO - 127.0.0.1 - - [2026-05-30 17:21:21] "GET /main.js HTTP/1.1" 200 2683 0.000997
+2026-05-30 17:21:21,522 - geventwebsocket.handler - INFO - 127.0.0.1 - - [2026-05-30 17:21:21] "GET /eel.js HTTP/1.1" 200 6025 0.001325
+2026-05-30 17:21:21,526 - geventwebsocket.handler - INFO - 127.0.0.1 - - [2026-05-30 17:21:21] "GET /controller.js HTTP/1.1" 200 2351 0.002245
+2026-05-30 17:22:36,323 - comtypes.client._code_cache - INFO - Imported existing <module 'comtypes.gen' from 'C:\\Users\\admin\\Desktop\\Jarvis\\jarvis-main\\venv\\Lib\\site-packages\\comtypes\\gen\\__init__.py'>
+2026-05-30 17:22:36,323 - comtypes.client._code_cache - INFO - Using writeable comtypes cache directory: 'C:\Users\admin\Desktop\Jarvis\jarvis-main\venv\Lib\site-packages\comtypes\gen'
+2026-05-30 17:22:40,729 - geventwebsocket.handler - INFO - 127.0.0.1 - - [2026-05-30 17:22:40] "GET /index.html HTTP/1.1" 200 28230 0.002006
+2026-05-30 17:22:40,764 - geventwebsocket.handler - INFO - 127.0.0.1 - - [2026-05-30 17:22:40] "GET /assets/vendore/texllate/animate.css HTTP/1.1" 200 61438 0.005999
+2026-05-30 17:22:40,767 - geventwebsocket.handler - INFO - 127.0.0.1 - - [2026-05-30 17:22:40] "GET /style.css HTTP/1.1" 200 5470 0.000998
+2026-05-30 17:22:40,777 - geventwebsocket.handler - INFO - 127.0.0.1 - - [2026-05-30 17:22:40] "GET /script.js HTTP/1.1" 200 8775 0.002001
+2026-05-30 17:22:40,783 - geventwebsocket.handler - INFO - 127.0.0.1 - - [2026-05-30 17:22:40] "GET /assets/vendore/texllate/jquery.lettering.js HTTP/1.1" 200 2223 0.001999
+2026-05-30 17:22:40,787 - geventwebsocket.handler - INFO - 127.0.0.1 - - [2026-05-30 17:22:40] "GET /assets/vendore/texllate/jquery.fittext.js HTTP/1.1" 200 1340 0.002001
+2026-05-30 17:22:40,789 - geventwebsocket.handler - INFO - 127.0.0.1 - - [2026-05-30 17:22:40] "GET /main.js HTTP/1.1" 200 2683 0.001000
+2026-05-30 17:22:40,791 - geventwebsocket.handler - INFO - 127.0.0.1 - - [2026-05-30 17:22:40] "GET /eel.js HTTP/1.1" 200 6025 0.000997
+2026-05-30 17:22:40,794 - geventwebsocket.handler - INFO - 127.0.0.1 - - [2026-05-30 17:22:40] "GET /controller.js HTTP/1.1" 200 2351 0.002007
+2026-05-30 17:24:09,081 - comtypes.client._code_cache - INFO - Imported existing <module 'comtypes.gen' from 'C:\\Users\\admin\\Desktop\\Jarvis\\jarvis-main\\venv\\Lib\\site-packages\\comtypes\\gen\\__init__.py'>
+2026-05-30 17:24:09,082 - comtypes.client._code_cache - INFO - Using writeable comtypes cache directory: 'C:\Users\admin\Desktop\Jarvis\jarvis-main\venv\Lib\site-packages\comtypes\gen'
+2026-05-30 17:24:13,456 - geventwebsocket.handler - INFO - 127.0.0.1 - - [2026-05-30 17:24:13] "GET /index.html HTTP/1.1" 200 28230 0.003003
+2026-05-30 17:24:13,490 - geventwebsocket.handler - INFO - 127.0.0.1 - - [2026-05-30 17:24:13] "GET /assets/vendore/texllate/animate.css HTTP/1.1" 200 61438 0.002443
+2026-05-30 17:24:13,494 - geventwebsocket.handler - INFO - 127.0.0.1 - - [2026-05-30 17:24:13] "GET /style.css HTTP/1.1" 200 5470 0.002223
+2026-05-30 17:24:13,503 - geventwebsocket.handler - INFO - 127.0.0.1 - - [2026-05-30 17:24:13] "GET /script.js HTTP/1.1" 200 8775 0.002234
+2026-05-30 17:24:13,509 - geventwebsocket.handler - INFO - 127.0.0.1 - - [2026-05-30 17:24:13] "GET /assets/vendore/texllate/jquery.fittext.js HTTP/1.1" 200 1340 0.001000
+2026-05-30 17:24:13,515 - geventwebsocket.handler - INFO - 127.0.0.1 - - [2026-05-30 17:24:13] "GET /assets/vendore/texllate/jquery.lettering.js HTTP/1.1" 200 2223 0.000998
+2026-05-30 17:24:13,518 - geventwebsocket.handler - INFO - 127.0.0.1 - - [2026-05-30 17:24:13] "GET /main.js HTTP/1.1" 200 2683 0.002010
+2026-05-30 17:24:13,520 - geventwebsocket.handler - INFO - 127.0.0.1 - - [2026-05-30 17:24:13] "GET /eel.js HTTP/1.1" 200 6025 0.000999
+2026-05-30 17:24:13,523 - geventwebsocket.handler - INFO - 127.0.0.1 - - [2026-05-30 17:24:13] "GET /controller.js HTTP/1.1" 200 2351 0.001237
+2026-05-30 17:34:50,217 - comtypes.client._code_cache - INFO - Imported existing <module 'comtypes.gen' from 'C:\\Users\\admin\\Desktop\\Jarvis\\jarvis-main\\venv\\Lib\\site-packages\\comtypes\\gen\\__init__.py'>
+2026-05-30 17:34:50,218 - comtypes.client._code_cache - INFO - Using writeable comtypes cache directory: 'C:\Users\admin\Desktop\Jarvis\jarvis-main\venv\Lib\site-packages\comtypes\gen'
+2026-05-30 17:34:54,602 - geventwebsocket.handler - INFO - 127.0.0.1 - - [2026-05-30 17:34:54] "GET /index.html HTTP/1.1" 200 28230 0.002491
+2026-05-30 17:34:54,633 - geventwebsocket.handler - INFO - 127.0.0.1 - - [2026-05-30 17:34:54] "GET /assets/vendore/texllate/animate.css HTTP/1.1" 200 61438 0.001993
+2026-05-30 17:34:54,636 - geventwebsocket.handler - INFO - 127.0.0.1 - - [2026-05-30 17:34:54] "GET /style.css HTTP/1.1" 200 5470 0.001010
+2026-05-30 17:34:54,647 - geventwebsocket.handler - INFO - 127.0.0.1 - - [2026-05-30 17:34:54] "GET /script.js HTTP/1.1" 200 8775 0.002005
+2026-05-30 17:34:54,652 - geventwebsocket.handler - INFO - 127.0.0.1 - - [2026-05-30 17:34:54] "GET /assets/vendore/texllate/jquery.fittext.js HTTP/1.1" 200 1340 0.003123
+2026-05-30 17:34:54,654 - geventwebsocket.handler - INFO - 127.0.0.1 - - [2026-05-30 17:34:54] "GET /assets/vendore/texllate/jquery.lettering.js HTTP/1.1" 200 2223 0.001150
+2026-05-30 17:34:54,657 - geventwebsocket.handler - INFO - 127.0.0.1 - - [2026-05-30 17:34:54] "GET /main.js HTTP/1.1" 200 2683 0.002007
+2026-05-30 17:34:54,659 - geventwebsocket.handler - INFO - 127.0.0.1 - - [2026-05-30 17:34:54] "GET /eel.js HTTP/1.1" 200 6025 0.001021
+2026-05-30 17:34:54,662 - geventwebsocket.handler - INFO - 127.0.0.1 - - [2026-05-30 17:34:54] "GET /controller.js HTTP/1.1" 200 2351 0.001266
+2026-05-30 17:56:20,390 - comtypes.client._code_cache - INFO - Imported existing <module 'comtypes.gen' from 'C:\\Users\\admin\\Desktop\\Jarvis\\jarvis-main\\venv\\Lib\\site-packages\\comtypes\\gen\\__init__.py'>
+2026-05-30 17:56:20,390 - comtypes.client._code_cache - INFO - Using writeable comtypes cache directory: 'C:\Users\admin\Desktop\Jarvis\jarvis-main\venv\Lib\site-packages\comtypes\gen'
+2026-05-30 17:56:33,690 - geventwebsocket.handler - INFO - 127.0.0.1 - - [2026-05-30 17:56:33] "GET /index.html HTTP/1.1" 200 28230 0.003205
+2026-05-30 17:56:34,071 - geventwebsocket.handler - INFO - 127.0.0.1 - - [2026-05-30 17:56:34] "GET /assets/vendore/texllate/animate.css HTTP/1.1" 200 61438 0.001017
+2026-05-30 17:56:34,074 - geventwebsocket.handler - INFO - 127.0.0.1 - - [2026-05-30 17:56:34] "GET /style.css HTTP/1.1" 200 5470 0.001233
+2026-05-30 17:56:34,076 - geventwebsocket.handler - INFO - 127.0.0.1 - - [2026-05-30 17:56:34] "GET /script.js HTTP/1.1" 200 8775 0.001058
+2026-05-30 17:56:34,078 - geventwebsocket.handler - INFO - 127.0.0.1 - - [2026-05-30 17:56:34] "GET /assets/vendore/texllate/jquery.fittext.js HTTP/1.1" 200 1340 0.001001
+2026-05-30 17:56:34,082 - geventwebsocket.handler - INFO - 127.0.0.1 - - [2026-05-30 17:56:34] "GET /assets/vendore/texllate/jquery.lettering.js HTTP/1.1" 200 2223 0.001004
+2026-05-30 17:56:34,084 - geventwebsocket.handler - INFO - 127.0.0.1 - - [2026-05-30 17:56:34] "GET /main.js HTTP/1.1" 200 2683 0.001000
+2026-05-30 17:56:34,087 - geventwebsocket.handler - INFO - 127.0.0.1 - - [2026-05-30 17:56:34] "GET /controller.js HTTP/1.1" 200 2351 0.002407
+2026-05-30 17:56:34,088 - geventwebsocket.handler - INFO - 127.0.0.1 - - [2026-05-30 17:56:34] "GET /eel.js HTTP/1.1" 200 6025 0.000000
+2026-05-30 17:57:02,860 - geventwebsocket.handler - INFO - 127.0.0.1 - - [2026-05-30 17:57:02] "GET /frontend/assets/img/logo.ico HTTP/1.1" 404 899 0.006272
+2026-05-30 18:19:41,800 - comtypes.client._code_cache - INFO - Imported existing <module 'comtypes.gen' from 'C:\\Users\\admin\\Desktop\\Jarvis\\jarvis-main\\venv\\Lib\\site-packages\\comtypes\\gen\\__init__.py'>
+2026-05-30 18:19:41,801 - comtypes.client._code_cache - INFO - Using writeable comtypes cache directory: 'C:\Users\admin\Desktop\Jarvis\jarvis-main\venv\Lib\site-packages\comtypes\gen'
+2026-05-30 18:22:30,824 - geventwebsocket.handler - INFO - 127.0.0.1 - - [2026-05-30 18:22:30] "GET /index.html HTTP/1.1" 200 14507 0.003781
+2026-05-30 18:22:30,869 - geventwebsocket.handler - INFO - 127.0.0.1 - - [2026-05-30 18:22:30] "GET /assets/vendore/texllate/animate.css HTTP/1.1" 200 61438 0.002001
+2026-05-30 18:22:30,873 - geventwebsocket.handler - INFO - 127.0.0.1 - - [2026-05-30 18:22:30] "GET /style.css HTTP/1.1" 200 17049 0.002528
+2026-05-30 18:22:30,885 - geventwebsocket.handler - INFO - 127.0.0.1 - - [2026-05-30 18:22:30] "GET /script.js HTTP/1.1" 200 8775 0.001559
+2026-05-30 18:22:30,888 - geventwebsocket.handler - INFO - 127.0.0.1 - - [2026-05-30 18:22:30] "GET /assets/vendore/texllate/jquery.fittext.js HTTP/1.1" 200 1340 0.001556
+2026-05-30 18:22:30,891 - geventwebsocket.handler - INFO - 127.0.0.1 - - [2026-05-30 18:22:30] "GET /assets/vendore/texllate/jquery.lettering.js HTTP/1.1" 200 2223 0.001559
+2026-05-30 18:22:30,894 - geventwebsocket.handler - INFO - 127.0.0.1 - - [2026-05-30 18:22:30] "GET /main.js HTTP/1.1" 200 6295 0.001536
+2026-05-30 18:22:30,897 - geventwebsocket.handler - INFO - 127.0.0.1 - - [2026-05-30 18:22:30] "GET /eel.js HTTP/1.1" 200 6025 0.001589
+2026-05-30 18:22:30,900 - geventwebsocket.handler - INFO - 127.0.0.1 - - [2026-05-30 18:22:30] "GET /controller.js HTTP/1.1" 200 7766 0.001488
+2026-05-30 18:22:31,846 - comtypes.client._code_cache - INFO - Imported existing <module 'comtypes.gen' from 'C:\\Users\\admin\\Desktop\\Jarvis\\jarvis-main\\venv\\Lib\\site-packages\\comtypes\\gen\\__init__.py'>
+2026-05-30 18:22:31,847 - comtypes.client._code_cache - INFO - Using writeable comtypes cache directory: 'C:\Users\admin\Desktop\Jarvis\jarvis-main\venv\Lib\site-packages\comtypes\gen'
+2026-05-30 18:26:08,127 - geventwebsocket.handler - INFO - 127.0.0.1 - - [2026-05-30 18:26:08] "GET /index.html HTTP/1.1" 200 14507 0.003161
+2026-05-30 18:26:08,168 - geventwebsocket.handler - INFO - 127.0.0.1 - - [2026-05-30 18:26:08] "GET /assets/vendore/texllate/animate.css HTTP/1.1" 200 61438 0.002240
+2026-05-30 18:26:08,171 - geventwebsocket.handler - INFO - 127.0.0.1 - - [2026-05-30 18:26:08] "GET /style.css HTTP/1.1" 200 17049 0.001500
+2026-05-30 18:26:08,189 - geventwebsocket.handler - INFO - 127.0.0.1 - - [2026-05-30 18:26:08] "GET /script.js HTTP/1.1" 200 8775 0.000979
+2026-05-30 18:26:08,192 - geventwebsocket.handler - INFO - 127.0.0.1 - - [2026-05-30 18:26:08] "GET /assets/vendore/texllate/jquery.fittext.js HTTP/1.1" 200 1340 0.001402
+2026-05-30 18:26:08,199 - geventwebsocket.handler - INFO - 127.0.0.1 - - [2026-05-30 18:26:08] "GET /assets/vendore/texllate/jquery.lettering.js HTTP/1.1" 200 2223 0.002000
+2026-05-30 18:26:08,202 - geventwebsocket.handler - INFO - 127.0.0.1 - - [2026-05-30 18:26:08] "GET /main.js HTTP/1.1" 200 6295 0.000991
+2026-05-30 18:26:08,204 - geventwebsocket.handler - INFO - 127.0.0.1 - - [2026-05-30 18:26:08] "GET /eel.js HTTP/1.1" 200 6025 0.001024
+2026-05-30 18:26:08,207 - geventwebsocket.handler - INFO - 127.0.0.1 - - [2026-05-30 18:26:08] "GET /controller.js HTTP/1.1" 200 7766 0.001910
+2026-05-30 18:26:08,575 - geventwebsocket.handler - INFO - 127.0.0.1 - - [2026-05-30 18:26:08] "GET /frontend/assets/img/logo.ico HTTP/1.1" 404 899 0.006424
+2026-05-30 18:26:11,192 - comtypes.client._code_cache - INFO - Imported existing <module 'comtypes.gen' from 'C:\\Users\\admin\\Desktop\\Jarvis\\jarvis-main\\venv\\Lib\\site-packages\\comtypes\\gen\\__init__.py'>
+2026-05-30 18:26:11,192 - comtypes.client._code_cache - INFO - Using writeable comtypes cache directory: 'C:\Users\admin\Desktop\Jarvis\jarvis-main\venv\Lib\site-packages\comtypes\gen'
+2026-05-30 18:40:44,020 - comtypes.client._code_cache - INFO - Imported existing <module 'comtypes.gen' from 'C:\\Users\\admin\\Desktop\\Jarvis\\jarvis-main\\venv\\Lib\\site-packages\\comtypes\\gen\\__init__.py'>
+2026-05-30 18:40:44,021 - comtypes.client._code_cache - INFO - Using writeable comtypes cache directory: 'C:\Users\admin\Desktop\Jarvis\jarvis-main\venv\Lib\site-packages\comtypes\gen'
+2026-05-30 18:42:45,888 - geventwebsocket.handler - INFO - 127.0.0.1 - - [2026-05-30 18:42:45] "GET /index.html HTTP/1.1" 200 14507 0.002419
+2026-05-30 18:42:45,935 - geventwebsocket.handler - INFO - 127.0.0.1 - - [2026-05-30 18:42:45] "GET /assets/vendore/texllate/animate.css HTTP/1.1" 200 61438 0.002029
+2026-05-30 18:42:45,939 - geventwebsocket.handler - INFO - 127.0.0.1 - - [2026-05-30 18:42:45] "GET /style.css HTTP/1.1" 200 17049 0.001047
+2026-05-30 18:42:45,948 - geventwebsocket.handler - INFO - 127.0.0.1 - - [2026-05-30 18:42:45] "GET /script.js HTTP/1.1" 200 8775 0.001986
+2026-05-30 18:42:45,951 - geventwebsocket.handler - INFO - 127.0.0.1 - - [2026-05-30 18:42:45] "GET /assets/vendore/texllate/jquery.fittext.js HTTP/1.1" 200 1340 0.001041
+2026-05-30 18:42:45,957 - geventwebsocket.handler - INFO - 127.0.0.1 - - [2026-05-30 18:42:45] "GET /assets/vendore/texllate/jquery.lettering.js HTTP/1.1" 200 2223 0.002000
+2026-05-30 18:42:45,960 - geventwebsocket.handler - INFO - 127.0.0.1 - - [2026-05-30 18:42:45] "GET /main.js HTTP/1.1" 200 6295 0.001996
+2026-05-30 18:42:45,962 - geventwebsocket.handler - INFO - 127.0.0.1 - - [2026-05-30 18:42:45] "GET /eel.js HTTP/1.1" 200 6025 0.001003
+2026-05-30 18:42:45,965 - geventwebsocket.handler - INFO - 127.0.0.1 - - [2026-05-30 18:42:45] "GET /controller.js HTTP/1.1" 200 7766 0.002002
+2026-05-30 18:42:46,964 - comtypes.client._code_cache - INFO - Imported existing <module 'comtypes.gen' from 'C:\\Users\\admin\\Desktop\\Jarvis\\jarvis-main\\venv\\Lib\\site-packages\\comtypes\\gen\\__init__.py'>
+2026-05-30 18:42:46,966 - comtypes.client._code_cache - INFO - Using writeable comtypes cache directory: 'C:\Users\admin\Desktop\Jarvis\jarvis-main\venv\Lib\site-packages\comtypes\gen'
+2026-05-30 18:46:15,056 - geventwebsocket.handler - INFO - 127.0.0.1 - - [2026-05-30 18:46:15] "GET /index.html HTTP/1.1" 200 14507 0.002312
+2026-05-30 18:46:15,093 - geventwebsocket.handler - INFO - 127.0.0.1 - - [2026-05-30 18:46:15] "GET /assets/vendore/texllate/animate.css HTTP/1.1" 200 61438 0.002004
+2026-05-30 18:46:15,096 - geventwebsocket.handler - INFO - 127.0.0.1 - - [2026-05-30 18:46:15] "GET /style.css HTTP/1.1" 200 17049 0.000999
+2026-05-30 18:46:15,111 - geventwebsocket.handler - INFO - 127.0.0.1 - - [2026-05-30 18:46:15] "GET /script.js HTTP/1.1" 200 8775 0.001977
+2026-05-30 18:46:15,115 - geventwebsocket.handler - INFO - 127.0.0.1 - - [2026-05-30 18:46:15] "GET /assets/vendore/texllate/jquery.fittext.js HTTP/1.1" 200 1340 0.001008
+2026-05-30 18:46:15,118 - geventwebsocket.handler - INFO - 127.0.0.1 - - [2026-05-30 18:46:15] "GET /assets/vendore/texllate/jquery.lettering.js HTTP/1.1" 200 2223 0.001316
+2026-05-30 18:46:15,121 - geventwebsocket.handler - INFO - 127.0.0.1 - - [2026-05-30 18:46:15] "GET /eel.js HTTP/1.1" 200 6025 0.000000
+2026-05-30 18:46:15,123 - geventwebsocket.handler - INFO - 127.0.0.1 - - [2026-05-30 18:46:15] "GET /main.js HTTP/1.1" 200 6295 0.002002
+2026-05-30 18:46:15,126 - geventwebsocket.handler - INFO - 127.0.0.1 - - [2026-05-30 18:46:15] "GET /controller.js HTTP/1.1" 200 8213 0.002014
+2026-05-30 18:46:15,511 - geventwebsocket.handler - INFO - 127.0.0.1 - - [2026-05-30 18:46:15] "GET /frontend/assets/img/logo.ico HTTP/1.1" 404 899 0.004706
+2026-05-30 18:46:16,138 - comtypes.client._code_cache - INFO - Imported existing <module 'comtypes.gen' from 'C:\\Users\\admin\\Desktop\\Jarvis\\jarvis-main\\venv\\Lib\\site-packages\\comtypes\\gen\\__init__.py'>
+2026-05-30 18:46:16,139 - comtypes.client._code_cache - INFO - Using writeable comtypes cache directory: 'C:\Users\admin\Desktop\Jarvis\jarvis-main\venv\Lib\site-packages\comtypes\gen'
+2026-05-30 18:50:51,143 - geventwebsocket.handler - INFO - 127.0.0.1 - - [2026-05-30 18:50:51] "GET /index.html HTTP/1.1" 200 14507 0.004304
+2026-05-30 18:50:51,172 - geventwebsocket.handler - INFO - 127.0.0.1 - - [2026-05-30 18:50:51] "GET /assets/vendore/texllate/animate.css HTTP/1.1" 200 61438 0.002003
+2026-05-30 18:50:51,174 - geventwebsocket.handler - INFO - 127.0.0.1 - - [2026-05-30 18:50:51] "GET /style.css HTTP/1.1" 200 17049 0.001627
+2026-05-30 18:50:51,189 - geventwebsocket.handler - INFO - 127.0.0.1 - - [2026-05-30 18:50:51] "GET /script.js HTTP/1.1" 200 8775 0.002086
+2026-05-30 18:50:51,193 - geventwebsocket.handler - INFO - 127.0.0.1 - - [2026-05-30 18:50:51] "GET /assets/vendore/texllate/jquery.fittext.js HTTP/1.1" 200 1340 0.002002
+2026-05-30 18:50:51,196 - geventwebsocket.handler - INFO - 127.0.0.1 - - [2026-05-30 18:50:51] "GET /assets/vendore/texllate/jquery.lettering.js HTTP/1.1" 200 2223 0.002000
+2026-05-30 18:50:51,200 - geventwebsocket.handler - INFO - 127.0.0.1 - - [2026-05-30 18:50:51] "GET /eel.js HTTP/1.1" 200 6025 0.002062
+2026-05-30 18:50:51,203 - geventwebsocket.handler - INFO - 127.0.0.1 - - [2026-05-30 18:50:51] "GET /main.js HTTP/1.1" 200 6295 0.000000
+2026-05-30 18:50:51,206 - geventwebsocket.handler - INFO - 127.0.0.1 - - [2026-05-30 18:50:51] "GET /controller.js HTTP/1.1" 200 2128 0.002069
+2026-05-30 18:50:52,735 - comtypes.client._code_cache - INFO - Imported existing <module 'comtypes.gen' from 'C:\\Users\\admin\\Desktop\\Jarvis\\jarvis-main\\venv\\Lib\\site-packages\\comtypes\\gen\\__init__.py'>
+2026-05-30 18:50:52,735 - comtypes.client._code_cache - INFO - Using writeable comtypes cache directory: 'C:\Users\admin\Desktop\Jarvis\jarvis-main\venv\Lib\site-packages\comtypes\gen'
+2026-05-30 19:00:51,051 - geventwebsocket.handler - INFO - 127.0.0.1 - - [2026-05-30 19:00:51] "GET /index.html HTTP/1.1" 200 14507 0.002051
+2026-05-30 19:00:51,093 - geventwebsocket.handler - INFO - 127.0.0.1 - - [2026-05-30 19:00:51] "GET /assets/vendore/texllate/animate.css HTTP/1.1" 200 61438 0.007462
+2026-05-30 19:00:51,098 - geventwebsocket.handler - INFO - 127.0.0.1 - - [2026-05-30 19:00:51] "GET /style.css HTTP/1.1" 200 17049 0.001999
+2026-05-30 19:00:51,106 - geventwebsocket.handler - INFO - 127.0.0.1 - - [2026-05-30 19:00:51] "GET /script.js HTTP/1.1" 200 8775 0.002178
+2026-05-30 19:00:51,111 - geventwebsocket.handler - INFO - 127.0.0.1 - - [2026-05-30 19:00:51] "GET /assets/vendore/texllate/jquery.fittext.js HTTP/1.1" 200 1340 0.002002
+2026-05-30 19:00:51,114 - geventwebsocket.handler - INFO - 127.0.0.1 - - [2026-05-30 19:00:51] "GET /assets/vendore/texllate/jquery.lettering.js HTTP/1.1" 200 2223 0.001998
+2026-05-30 19:00:51,117 - geventwebsocket.handler - INFO - 127.0.0.1 - - [2026-05-30 19:00:51] "GET /main.js HTTP/1.1" 200 6295 0.001038
+2026-05-30 19:00:51,119 - geventwebsocket.handler - INFO - 127.0.0.1 - - [2026-05-30 19:00:51] "GET /eel.js HTTP/1.1" 200 6025 0.000000
+2026-05-30 19:00:51,121 - geventwebsocket.handler - INFO - 127.0.0.1 - - [2026-05-30 19:00:51] "GET /controller.js HTTP/1.1" 200 2128 0.001280
+2026-05-30 19:00:52,172 - comtypes.client._code_cache - INFO - Imported existing <module 'comtypes.gen' from 'C:\\Users\\admin\\Desktop\\Jarvis\\jarvis-main\\venv\\Lib\\site-packages\\comtypes\\gen\\__init__.py'>
+2026-05-30 19:00:52,173 - comtypes.client._code_cache - INFO - Using writeable comtypes cache directory: 'C:\Users\admin\Desktop\Jarvis\jarvis-main\venv\Lib\site-packages\comtypes\gen'
+2026-05-30 19:01:23,642 - geventwebsocket.handler - INFO - 127.0.0.1 - - [2026-05-30 19:01:23] "GET /frontend/assets/img/logo.ico HTTP/1.1" 404 899 0.005001
+2026-05-30 19:01:54,893 - geventwebsocket.handler - INFO - 127.0.0.1 - - [2026-05-30 19:01:54] "GET /index.html HTTP/1.1" 200 14507 0.002030
+2026-05-30 19:01:54,924 - geventwebsocket.handler - INFO - 127.0.0.1 - - [2026-05-30 19:01:54] "GET /assets/vendore/texllate/animate.css HTTP/1.1" 200 61438 0.003341
+2026-05-30 19:01:54,928 - geventwebsocket.handler - INFO - 127.0.0.1 - - [2026-05-30 19:01:54] "GET /style.css HTTP/1.1" 200 17049 0.001194
+2026-05-30 19:01:54,940 - geventwebsocket.handler - INFO - 127.0.0.1 - - [2026-05-30 19:01:54] "GET /script.js HTTP/1.1" 200 8775 0.002000
+2026-05-30 19:01:54,945 - geventwebsocket.handler - INFO - 127.0.0.1 - - [2026-05-30 19:01:54] "GET /assets/vendore/texllate/jquery.fittext.js HTTP/1.1" 200 1340 0.001997
+2026-05-30 19:01:54,950 - geventwebsocket.handler - INFO - 127.0.0.1 - - [2026-05-30 19:01:54] "GET /main.js HTTP/1.1" 200 6295 0.000998
+2026-05-30 19:01:54,955 - geventwebsocket.handler - INFO - 127.0.0.1 - - [2026-05-30 19:01:54] "GET /assets/vendore/texllate/jquery.lettering.js HTTP/1.1" 200 2223 0.001001
+2026-05-30 19:01:54,959 - geventwebsocket.handler - INFO - 127.0.0.1 - - [2026-05-30 19:01:54] "GET /controller.js HTTP/1.1" 200 2128 0.002001
+2026-05-30 19:01:54,961 - geventwebsocket.handler - INFO - 127.0.0.1 - - [2026-05-30 19:01:54] "GET /eel.js HTTP/1.1" 200 6025 0.001001
+2026-05-30 19:01:56,494 - comtypes.client._code_cache - INFO - Imported existing <module 'comtypes.gen' from 'C:\\Users\\admin\\Desktop\\Jarvis\\jarvis-main\\venv\\Lib\\site-packages\\comtypes\\gen\\__init__.py'>
+2026-05-30 19:01:56,494 - comtypes.client._code_cache - INFO - Using writeable comtypes cache directory: 'C:\Users\admin\Desktop\Jarvis\jarvis-main\venv\Lib\site-packages\comtypes\gen'
+2026-05-30 19:11:30,828 - geventwebsocket.handler - INFO - 127.0.0.1 - - [2026-05-30 19:11:30] "GET /index.html HTTP/1.1" 200 14507 0.001984
+2026-05-30 19:11:30,859 - geventwebsocket.handler - INFO - 127.0.0.1 - - [2026-05-30 19:11:30] "GET /assets/vendore/texllate/animate.css HTTP/1.1" 200 61438 0.000999
+2026-05-30 19:11:30,862 - geventwebsocket.handler - INFO - 127.0.0.1 - - [2026-05-30 19:11:30] "GET /style.css HTTP/1.1" 200 17049 0.002235
+2026-05-30 19:11:30,878 - geventwebsocket.handler - INFO - 127.0.0.1 - - [2026-05-30 19:11:30] "GET /script.js HTTP/1.1" 200 8775 0.003010
+2026-05-30 19:11:30,882 - geventwebsocket.handler - INFO - 127.0.0.1 - - [2026-05-30 19:11:30] "GET /assets/vendore/texllate/jquery.fittext.js HTTP/1.1" 200 1340 0.002000
+2026-05-30 19:11:30,888 - geventwebsocket.handler - INFO - 127.0.0.1 - - [2026-05-30 19:11:30] "GET /main.js HTTP/1.1" 200 6295 0.002001
+2026-05-30 19:11:30,892 - geventwebsocket.handler - INFO - 127.0.0.1 - - [2026-05-30 19:11:30] "GET /assets/vendore/texllate/jquery.lettering.js HTTP/1.1" 200 2223 0.001519
+2026-05-30 19:11:30,894 - geventwebsocket.handler - INFO - 127.0.0.1 - - [2026-05-30 19:11:30] "GET /eel.js HTTP/1.1" 200 6025 0.000000
+2026-05-30 19:11:30,896 - geventwebsocket.handler - INFO - 127.0.0.1 - - [2026-05-30 19:11:30] "GET /controller.js HTTP/1.1" 200 2128 0.001004
+2026-05-30 19:11:32,423 - comtypes.client._code_cache - INFO - Imported existing <module 'comtypes.gen' from 'C:\\Users\\admin\\Desktop\\Jarvis\\jarvis-main\\venv\\Lib\\site-packages\\comtypes\\gen\\__init__.py'>
+2026-05-30 19:11:32,424 - comtypes.client._code_cache - INFO - Using writeable comtypes cache directory: 'C:\Users\admin\Desktop\Jarvis\jarvis-main\venv\Lib\site-packages\comtypes\gen'
+2026-05-30 19:20:09,477 - geventwebsocket.handler - INFO - 127.0.0.1 - - [2026-05-30 19:20:09] "GET /index.html HTTP/1.1" 200 14507 0.002502
+2026-05-30 19:20:09,519 - geventwebsocket.handler - INFO - 127.0.0.1 - - [2026-05-30 19:20:09] "GET /assets/vendore/texllate/animate.css HTTP/1.1" 200 61438 0.002204
+2026-05-30 19:20:09,522 - geventwebsocket.handler - INFO - 127.0.0.1 - - [2026-05-30 19:20:09] "GET /style.css HTTP/1.1" 200 17049 0.002025
+2026-05-30 19:20:09,535 - geventwebsocket.handler - INFO - 127.0.0.1 - - [2026-05-30 19:20:09] "GET /script.js HTTP/1.1" 200 8775 0.001443
+2026-05-30 19:20:09,537 - geventwebsocket.handler - INFO - 127.0.0.1 - - [2026-05-30 19:20:09] "GET /assets/vendore/texllate/jquery.fittext.js HTTP/1.1" 200 1340 0.001108
+2026-05-30 19:20:09,540 - geventwebsocket.handler - INFO - 127.0.0.1 - - [2026-05-30 19:20:09] "GET /assets/vendore/texllate/jquery.lettering.js HTTP/1.1" 200 2223 0.001001
+2026-05-30 19:20:09,543 - geventwebsocket.handler - INFO - 127.0.0.1 - - [2026-05-30 19:20:09] "GET /main.js HTTP/1.1" 200 6295 0.001019
+2026-05-30 19:20:09,545 - geventwebsocket.handler - INFO - 127.0.0.1 - - [2026-05-30 19:20:09] "GET /eel.js HTTP/1.1" 200 6025 0.000000
+2026-05-30 19:20:09,547 - geventwebsocket.handler - INFO - 127.0.0.1 - - [2026-05-30 19:20:09] "GET /controller.js HTTP/1.1" 200 2128 0.001200
+2026-05-30 19:20:10,317 - geventwebsocket.handler - INFO - 127.0.0.1 - - [2026-05-30 19:20:10] "GET /frontend/assets/img/logo.ico HTTP/1.1" 404 899 0.007653
+2026-05-30 19:20:10,519 - comtypes.client._code_cache - INFO - Imported existing <module 'comtypes.gen' from 'C:\\Users\\admin\\Desktop\\Jarvis\\jarvis-main\\venv\\Lib\\site-packages\\comtypes\\gen\\__init__.py'>
+2026-05-30 19:20:10,520 - comtypes.client._code_cache - INFO - Using writeable comtypes cache directory: 'C:\Users\admin\Desktop\Jarvis\jarvis-main\venv\Lib\site-packages\comtypes\gen'
+2026-05-30 19:26:49,231 - geventwebsocket.handler - INFO - 127.0.0.1 - - [2026-05-30 19:26:49] "GET /index.html HTTP/1.1" 200 14507 0.002190
+2026-05-30 19:26:49,262 - geventwebsocket.handler - INFO - 127.0.0.1 - - [2026-05-30 19:26:49] "GET /assets/vendore/texllate/animate.css HTTP/1.1" 200 61438 0.001000
+2026-05-30 19:26:49,266 - geventwebsocket.handler - INFO - 127.0.0.1 - - [2026-05-30 19:26:49] "GET /style.css HTTP/1.1" 200 17049 0.002099
+2026-05-30 19:26:49,278 - geventwebsocket.handler - INFO - 127.0.0.1 - - [2026-05-30 19:26:49] "GET /script.js HTTP/1.1" 200 8775 0.002003
+2026-05-30 19:26:49,284 - geventwebsocket.handler - INFO - 127.0.0.1 - - [2026-05-30 19:26:49] "GET /assets/vendore/texllate/jquery.fittext.js HTTP/1.1" 200 1340 0.001000
+2026-05-30 19:26:49,291 - geventwebsocket.handler - INFO - 127.0.0.1 - - [2026-05-30 19:26:49] "GET /main.js HTTP/1.1" 200 6295 0.000947
+2026-05-30 19:26:49,294 - geventwebsocket.handler - INFO - 127.0.0.1 - - [2026-05-30 19:26:49] "GET /assets/vendore/texllate/jquery.lettering.js HTTP/1.1" 200 2223 0.000999
+2026-05-30 19:26:49,297 - geventwebsocket.handler - INFO - 127.0.0.1 - - [2026-05-30 19:26:49] "GET /eel.js HTTP/1.1" 200 6025 0.000998
+2026-05-30 19:26:49,301 - geventwebsocket.handler - INFO - 127.0.0.1 - - [2026-05-30 19:26:49] "GET /controller.js HTTP/1.1" 200 2128 0.000998
+2026-05-30 19:26:50,832 - comtypes.client._code_cache - INFO - Imported existing <module 'comtypes.gen' from 'C:\\Users\\admin\\Desktop\\Jarvis\\jarvis-main\\venv\\Lib\\site-packages\\comtypes\\gen\\__init__.py'>
+2026-05-30 19:26:50,834 - comtypes.client._code_cache - INFO - Using writeable comtypes cache directory: 'C:\Users\admin\Desktop\Jarvis\jarvis-main\venv\Lib\site-packages\comtypes\gen'
+2026-05-30 19:36:41,172 - geventwebsocket.handler - INFO - 127.0.0.1 - - [2026-05-30 19:36:41] "GET /index.html HTTP/1.1" 200 14507 0.001471
+2026-05-30 19:36:41,185 - geventwebsocket.handler - INFO - 127.0.0.1 - - [2026-05-30 19:36:41] "GET /assets/vendore/texllate/animate.css HTTP/1.1" 200 61438 0.001001
+2026-05-30 19:36:41,187 - geventwebsocket.handler - INFO - 127.0.0.1 - - [2026-05-30 19:36:41] "GET /style.css HTTP/1.1" 200 17049 0.001001
+2026-05-30 19:36:41,196 - geventwebsocket.handler - INFO - 127.0.0.1 - - [2026-05-30 19:36:41] "GET /script.js HTTP/1.1" 200 8775 0.001479
+2026-05-30 19:36:41,198 - geventwebsocket.handler - INFO - 127.0.0.1 - - [2026-05-30 19:36:41] "GET /assets/vendore/texllate/jquery.fittext.js HTTP/1.1" 200 1340 0.001004
+2026-05-30 19:36:41,200 - geventwebsocket.handler - INFO - 127.0.0.1 - - [2026-05-30 19:36:41] "GET /assets/vendore/texllate/jquery.lettering.js HTTP/1.1" 200 2223 0.001001
+2026-05-30 19:36:41,202 - geventwebsocket.handler - INFO - 127.0.0.1 - - [2026-05-30 19:36:41] "GET /main.js HTTP/1.1" 200 6295 0.001005
+2026-05-30 19:36:41,203 - geventwebsocket.handler - INFO - 127.0.0.1 - - [2026-05-30 19:36:41] "GET /eel.js HTTP/1.1" 200 6025 0.000000
+2026-05-30 19:36:41,204 - geventwebsocket.handler - INFO - 127.0.0.1 - - [2026-05-30 19:36:41] "GET /controller.js HTTP/1.1" 200 2128 0.000000
+2026-05-30 19:36:42,817 - comtypes.client._code_cache - INFO - Imported existing <module 'comtypes.gen' from 'C:\\Users\\admin\\Desktop\\Jarvis\\jarvis-main\\venv\\Lib\\site-packages\\comtypes\\gen\\__init__.py'>
+2026-05-30 19:36:42,817 - comtypes.client._code_cache - INFO - Using writeable comtypes cache directory: 'C:\Users\admin\Desktop\Jarvis\jarvis-main\venv\Lib\site-packages\comtypes\gen'
+2026-05-30 19:38:32,527 - geventwebsocket.handler - INFO - 127.0.0.1 - - [2026-05-30 19:38:32] "GET /index.html HTTP/1.1" 200 14507 0.000996
+2026-05-30 19:38:32,542 - geventwebsocket.handler - INFO - 127.0.0.1 - - [2026-05-30 19:38:32] "GET /assets/vendore/texllate/animate.css HTTP/1.1" 200 61438 0.001000
+2026-05-30 19:38:32,543 - geventwebsocket.handler - INFO - 127.0.0.1 - - [2026-05-30 19:38:32] "GET /style.css HTTP/1.1" 200 17049 0.001211
+2026-05-30 19:38:32,549 - geventwebsocket.handler - INFO - 127.0.0.1 - - [2026-05-30 19:38:32] "GET /script.js HTTP/1.1" 200 8775 0.001085
+2026-05-30 19:38:32,552 - geventwebsocket.handler - INFO - 127.0.0.1 - - [2026-05-30 19:38:32] "GET /assets/vendore/texllate/jquery.fittext.js HTTP/1.1" 200 1340 0.001005
+2026-05-30 19:38:32,554 - geventwebsocket.handler - INFO - 127.0.0.1 - - [2026-05-30 19:38:32] "GET /assets/vendore/texllate/jquery.lettering.js HTTP/1.1" 200 2223 0.001338
+2026-05-30 19:38:32,555 - geventwebsocket.handler - INFO - 127.0.0.1 - - [2026-05-30 19:38:32] "GET /main.js HTTP/1.1" 200 6295 0.000000
+2026-05-30 19:38:32,556 - geventwebsocket.handler - INFO - 127.0.0.1 - - [2026-05-30 19:38:32] "GET /eel.js HTTP/1.1" 200 6025 0.000000
+2026-05-30 19:38:32,558 - geventwebsocket.handler - INFO - 127.0.0.1 - - [2026-05-30 19:38:32] "GET /controller.js HTTP/1.1" 200 2128 0.001351
+2026-05-30 19:38:34,184 - comtypes.client._code_cache - INFO - Imported existing <module 'comtypes.gen' from 'C:\\Users\\admin\\Desktop\\Jarvis\\jarvis-main\\venv\\Lib\\site-packages\\comtypes\\gen\\__init__.py'>
+2026-05-30 19:38:34,185 - comtypes.client._code_cache - INFO - Using writeable comtypes cache directory: 'C:\Users\admin\Desktop\Jarvis\jarvis-main\venv\Lib\site-packages\comtypes\gen'
+2026-05-30 19:44:09,706 - geventwebsocket.handler - INFO - 127.0.0.1 - - [2026-05-30 19:44:09] "GET /index.html HTTP/1.1" 200 14507 0.002006
+2026-05-30 19:44:09,720 - geventwebsocket.handler - INFO - 127.0.0.1 - - [2026-05-30 19:44:09] "GET /assets/vendore/texllate/animate.css HTTP/1.1" 200 61438 0.000000
+2026-05-30 19:44:09,721 - geventwebsocket.handler - INFO - 127.0.0.1 - - [2026-05-30 19:44:09] "GET /style.css HTTP/1.1" 200 17049 0.001008
+2026-05-30 19:44:09,728 - geventwebsocket.handler - INFO - 127.0.0.1 - - [2026-05-30 19:44:09] "GET /script.js HTTP/1.1" 200 8775 0.001002
+2026-05-30 19:44:09,729 - geventwebsocket.handler - INFO - 127.0.0.1 - - [2026-05-30 19:44:09] "GET /assets/vendore/texllate/jquery.fittext.js HTTP/1.1" 200 1340 0.001314
+2026-05-30 19:44:09,731 - geventwebsocket.handler - INFO - 127.0.0.1 - - [2026-05-30 19:44:09] "GET /assets/vendore/texllate/jquery.lettering.js HTTP/1.1" 200 2223 0.000999
+2026-05-30 19:44:09,732 - geventwebsocket.handler - INFO - 127.0.0.1 - - [2026-05-30 19:44:09] "GET /main.js HTTP/1.1" 200 6295 0.001000
+2026-05-30 19:44:09,733 - geventwebsocket.handler - INFO - 127.0.0.1 - - [2026-05-30 19:44:09] "GET /eel.js HTTP/1.1" 200 6025 0.000000
+2026-05-30 19:44:09,734 - geventwebsocket.handler - INFO - 127.0.0.1 - - [2026-05-30 19:44:09] "GET /controller.js HTTP/1.1" 200 2128 0.001001
+2026-05-30 19:44:11,357 - comtypes.client._code_cache - INFO - Imported existing <module 'comtypes.gen' from 'C:\\Users\\admin\\Desktop\\Jarvis\\jarvis-main\\venv\\Lib\\site-packages\\comtypes\\gen\\__init__.py'>
+2026-05-30 19:44:11,358 - comtypes.client._code_cache - INFO - Using writeable comtypes cache directory: 'C:\Users\admin\Desktop\Jarvis\jarvis-main\venv\Lib\site-packages\comtypes\gen'
+2026-05-30 19:52:38,662 - geventwebsocket.handler - INFO - 127.0.0.1 - - [2026-05-30 19:52:38] "GET /index.html HTTP/1.1" 200 14507 0.001054
+2026-05-30 19:52:38,683 - geventwebsocket.handler - INFO - 127.0.0.1 - - [2026-05-30 19:52:38] "GET /assets/vendore/texllate/animate.css HTTP/1.1" 200 61438 0.001000
+2026-05-30 19:52:38,684 - geventwebsocket.handler - INFO - 127.0.0.1 - - [2026-05-30 19:52:38] "GET /style.css HTTP/1.1" 200 17049 0.000000
+2026-05-30 19:52:38,689 - geventwebsocket.handler - INFO - 127.0.0.1 - - [2026-05-30 19:52:38] "GET /script.js HTTP/1.1" 200 8775 0.000000
+2026-05-30 19:52:38,692 - geventwebsocket.handler - INFO - 127.0.0.1 - - [2026-05-30 19:52:38] "GET /assets/vendore/texllate/jquery.fittext.js HTTP/1.1" 200 1340 0.001002
+2026-05-30 19:52:38,694 - geventwebsocket.handler - INFO - 127.0.0.1 - - [2026-05-30 19:52:38] "GET /assets/vendore/texllate/jquery.lettering.js HTTP/1.1" 200 2223 0.002002
+2026-05-30 19:52:38,696 - geventwebsocket.handler - INFO - 127.0.0.1 - - [2026-05-30 19:52:38] "GET /main.js HTTP/1.1" 200 6295 0.001002
+2026-05-30 19:52:38,697 - geventwebsocket.handler - INFO - 127.0.0.1 - - [2026-05-30 19:52:38] "GET /eel.js HTTP/1.1" 200 6025 0.000000
+2026-05-30 19:52:38,698 - geventwebsocket.handler - INFO - 127.0.0.1 - - [2026-05-30 19:52:38] "GET /controller.js HTTP/1.1" 200 2128 0.001106
+2026-05-30 19:52:39,761 - geventwebsocket.handler - INFO - 127.0.0.1 - - [2026-05-30 19:52:39] "GET /frontend/assets/img/logo.ico HTTP/1.1" 404 899 0.003018
+2026-05-30 19:52:40,019 - comtypes.client._code_cache - INFO - Imported existing <module 'comtypes.gen' from 'C:\\Users\\admin\\Desktop\\Jarvis\\jarvis-main\\venv\\Lib\\site-packages\\comtypes\\gen\\__init__.py'>
+2026-05-30 19:52:40,020 - comtypes.client._code_cache - INFO - Using writeable comtypes cache directory: 'C:\Users\admin\Desktop\Jarvis\jarvis-main\venv\Lib\site-packages\comtypes\gen'
+2026-05-31 13:36:31,780 - geventwebsocket.handler - INFO - 127.0.0.1 - - [2026-05-31 13:36:31] "GET /index.html HTTP/1.1" 200 14507 0.002263
+2026-05-31 13:36:31,793 - geventwebsocket.handler - INFO - 127.0.0.1 - - [2026-05-31 13:36:31] "GET /assets/vendore/texllate/animate.css HTTP/1.1" 200 61438 0.001003
+2026-05-31 13:36:31,795 - geventwebsocket.handler - INFO - 127.0.0.1 - - [2026-05-31 13:36:31] "GET /style.css HTTP/1.1" 200 17049 0.000997
+2026-05-31 13:36:31,802 - geventwebsocket.handler - INFO - 127.0.0.1 - - [2026-05-31 13:36:31] "GET /script.js HTTP/1.1" 200 8775 0.002004
+2026-05-31 13:36:31,804 - geventwebsocket.handler - INFO - 127.0.0.1 - - [2026-05-31 13:36:31] "GET /assets/vendore/texllate/jquery.fittext.js HTTP/1.1" 200 1340 0.000999
+2026-05-31 13:36:31,807 - geventwebsocket.handler - INFO - 127.0.0.1 - - [2026-05-31 13:36:31] "GET /assets/vendore/texllate/jquery.lettering.js HTTP/1.1" 200 2223 0.001218
+2026-05-31 13:36:31,808 - geventwebsocket.handler - INFO - 127.0.0.1 - - [2026-05-31 13:36:31] "GET /main.js HTTP/1.1" 200 6295 0.001098
+2026-05-31 13:36:31,809 - geventwebsocket.handler - INFO - 127.0.0.1 - - [2026-05-31 13:36:31] "GET /eel.js HTTP/1.1" 200 6025 0.001104
+2026-05-31 13:36:31,810 - geventwebsocket.handler - INFO - 127.0.0.1 - - [2026-05-31 13:36:31] "GET /controller.js HTTP/1.1" 200 2128 0.001000
+2026-05-31 13:36:32,263 - geventwebsocket.handler - INFO - 127.0.0.1 - - [2026-05-31 13:36:32] "GET /frontend/assets/img/logo.ico HTTP/1.1" 404 899 0.004595
+2026-05-31 13:36:33,474 - comtypes.client._code_cache - INFO - Imported existing <module 'comtypes.gen' from 'C:\\Users\\admin\\Desktop\\Jarvis\\jarvis-main\\venv\\Lib\\site-packages\\comtypes\\gen\\__init__.py'>
+2026-05-31 13:36:33,474 - comtypes.client._code_cache - INFO - Using writeable comtypes cache directory: 'C:\Users\admin\Desktop\Jarvis\jarvis-main\venv\Lib\site-packages\comtypes\gen'
+2026-05-31 13:39:45,027 - geventwebsocket.handler - INFO - 127.0.0.1 - - [2026-05-31 13:39:45] "GET /index.html HTTP/1.1" 200 14507 0.001010
+2026-05-31 13:39:45,040 - geventwebsocket.handler - INFO - 127.0.0.1 - - [2026-05-31 13:39:45] "GET /assets/vendore/texllate/animate.css HTTP/1.1" 200 61438 0.000998
+2026-05-31 13:39:45,042 - geventwebsocket.handler - INFO - 127.0.0.1 - - [2026-05-31 13:39:45] "GET /style.css HTTP/1.1" 200 17049 0.001998
+2026-05-31 13:39:45,047 - geventwebsocket.handler - INFO - 127.0.0.1 - - [2026-05-31 13:39:45] "GET /script.js HTTP/1.1" 200 8775 0.001002
+2026-05-31 13:39:45,049 - geventwebsocket.handler - INFO - 127.0.0.1 - - [2026-05-31 13:39:45] "GET /assets/vendore/texllate/jquery.fittext.js HTTP/1.1" 200 1340 0.000998
+2026-05-31 13:39:45,050 - geventwebsocket.handler - INFO - 127.0.0.1 - - [2026-05-31 13:39:45] "GET /assets/vendore/texllate/jquery.lettering.js HTTP/1.1" 200 2223 0.000000
+2026-05-31 13:39:45,051 - geventwebsocket.handler - INFO - 127.0.0.1 - - [2026-05-31 13:39:45] "GET /main.js HTTP/1.1" 200 6295 0.000000
+2026-05-31 13:39:45,052 - geventwebsocket.handler - INFO - 127.0.0.1 - - [2026-05-31 13:39:45] "GET /eel.js HTTP/1.1" 200 6025 0.000000
+2026-05-31 13:39:45,054 - geventwebsocket.handler - INFO - 127.0.0.1 - - [2026-05-31 13:39:45] "GET /controller.js HTTP/1.1" 200 2128 0.001292
+2026-05-31 13:39:46,678 - comtypes.client._code_cache - INFO - Imported existing <module 'comtypes.gen' from 'C:\\Users\\admin\\Desktop\\Jarvis\\jarvis-main\\venv\\Lib\\site-packages\\comtypes\\gen\\__init__.py'>
+2026-05-31 13:39:46,679 - comtypes.client._code_cache - INFO - Using writeable comtypes cache directory: 'C:\Users\admin\Desktop\Jarvis\jarvis-main\venv\Lib\site-packages\comtypes\gen'
+2026-05-31 13:43:54,559 - geventwebsocket.handler - INFO - 127.0.0.1 - - [2026-05-31 13:43:54] "GET /index.html HTTP/1.1" 200 14507 0.000999
+2026-05-31 13:43:54,574 - geventwebsocket.handler - INFO - 127.0.0.1 - - [2026-05-31 13:43:54] "GET /assets/vendore/texllate/animate.css HTTP/1.1" 200 61438 0.001100
+2026-05-31 13:43:54,575 - geventwebsocket.handler - INFO - 127.0.0.1 - - [2026-05-31 13:43:54] "GET /style.css HTTP/1.1" 200 17049 0.001429
+2026-05-31 13:43:54,580 - geventwebsocket.handler - INFO - 127.0.0.1 - - [2026-05-31 13:43:54] "GET /script.js HTTP/1.1" 200 8775 0.000000
+2026-05-31 13:43:54,582 - geventwebsocket.handler - INFO - 127.0.0.1 - - [2026-05-31 13:43:54] "GET /assets/vendore/texllate/jquery.fittext.js HTTP/1.1" 200 1340 0.000997
+2026-05-31 13:43:54,584 - geventwebsocket.handler - INFO - 127.0.0.1 - - [2026-05-31 13:43:54] "GET /assets/vendore/texllate/jquery.lettering.js HTTP/1.1" 200 2223 0.001000
+2026-05-31 13:43:54,586 - geventwebsocket.handler - INFO - 127.0.0.1 - - [2026-05-31 13:43:54] "GET /main.js HTTP/1.1" 200 6295 0.000000
+2026-05-31 13:43:54,588 - geventwebsocket.handler - INFO - 127.0.0.1 - - [2026-05-31 13:43:54] "GET /eel.js HTTP/1.1" 200 6025 0.001129
+2026-05-31 13:43:54,589 - geventwebsocket.handler - INFO - 127.0.0.1 - - [2026-05-31 13:43:54] "GET /controller.js HTTP/1.1" 200 2128 0.001003
+2026-05-31 13:43:56,213 - comtypes.client._code_cache - INFO - Imported existing <module 'comtypes.gen' from 'C:\\Users\\admin\\Desktop\\Jarvis\\jarvis-main\\venv\\Lib\\site-packages\\comtypes\\gen\\__init__.py'>
+2026-05-31 13:43:56,214 - comtypes.client._code_cache - INFO - Using writeable comtypes cache directory: 'C:\Users\admin\Desktop\Jarvis\jarvis-main\venv\Lib\site-packages\comtypes\gen'
+2026-05-31 13:53:10,855 - geventwebsocket.handler - INFO - 127.0.0.1 - - [2026-05-31 13:53:10] "GET /index.html HTTP/1.1" 200 14507 0.001014
+2026-05-31 13:53:10,868 - geventwebsocket.handler - INFO - 127.0.0.1 - - [2026-05-31 13:53:10] "GET /assets/vendore/texllate/animate.css HTTP/1.1" 200 61438 0.000998
+2026-05-31 13:53:10,870 - geventwebsocket.handler - INFO - 127.0.0.1 - - [2026-05-31 13:53:10] "GET /style.css HTTP/1.1" 200 17049 0.001246
+2026-05-31 13:53:10,875 - geventwebsocket.handler - INFO - 127.0.0.1 - - [2026-05-31 13:53:10] "GET /script.js HTTP/1.1" 200 8775 0.000000
+2026-05-31 13:53:10,877 - geventwebsocket.handler - INFO - 127.0.0.1 - - [2026-05-31 13:53:10] "GET /assets/vendore/texllate/jquery.fittext.js HTTP/1.1" 200 1340 0.001420
+2026-05-31 13:53:10,879 - geventwebsocket.handler - INFO - 127.0.0.1 - - [2026-05-31 13:53:10] "GET /assets/vendore/texllate/jquery.lettering.js HTTP/1.1" 200 2223 0.000000
+2026-05-31 13:53:10,879 - geventwebsocket.handler - INFO - 127.0.0.1 - - [2026-05-31 13:53:10] "GET /main.js HTTP/1.1" 200 6295 0.000000
+2026-05-31 13:53:10,881 - geventwebsocket.handler - INFO - 127.0.0.1 - - [2026-05-31 13:53:10] "GET /eel.js HTTP/1.1" 200 6025 0.000000
+2026-05-31 13:53:10,882 - geventwebsocket.handler - INFO - 127.0.0.1 - - [2026-05-31 13:53:10] "GET /controller.js HTTP/1.1" 200 2128 0.001076
+2026-05-31 13:53:12,490 - comtypes.client._code_cache - INFO - Imported existing <module 'comtypes.gen' from 'C:\\Users\\admin\\Desktop\\Jarvis\\jarvis-main\\venv\\Lib\\site-packages\\comtypes\\gen\\__init__.py'>
+2026-05-31 13:53:12,490 - comtypes.client._code_cache - INFO - Using writeable comtypes cache directory: 'C:\Users\admin\Desktop\Jarvis\jarvis-main\venv\Lib\site-packages\comtypes\gen'
+2026-05-31 14:17:23,232 - geventwebsocket.handler - INFO - 127.0.0.1 - - [2026-05-31 14:17:23] "GET /index.html HTTP/1.1" 200 16365 0.001048
+2026-05-31 14:17:23,247 - geventwebsocket.handler - INFO - 127.0.0.1 - - [2026-05-31 14:17:23] "GET /assets/vendore/texllate/animate.css HTTP/1.1" 200 61438 0.000000
+2026-05-31 14:17:23,249 - geventwebsocket.handler - INFO - 127.0.0.1 - - [2026-05-31 14:17:23] "GET /style.css HTTP/1.1" 200 21256 0.001505
+2026-05-31 14:17:23,256 - geventwebsocket.handler - INFO - 127.0.0.1 - - [2026-05-31 14:17:23] "GET /script.js HTTP/1.1" 200 8775 0.001042
+2026-05-31 14:17:23,258 - geventwebsocket.handler - INFO - 127.0.0.1 - - [2026-05-31 14:17:23] "GET /assets/vendore/texllate/jquery.fittext.js HTTP/1.1" 200 1340 0.000000
+2026-05-31 14:17:23,260 - geventwebsocket.handler - INFO - 127.0.0.1 - - [2026-05-31 14:17:23] "GET /main.js HTTP/1.1" 200 10016 0.000998
+2026-05-31 14:17:23,262 - geventwebsocket.handler - INFO - 127.0.0.1 - - [2026-05-31 14:17:23] "GET /assets/vendore/texllate/jquery.lettering.js HTTP/1.1" 200 2223 0.001002
+2026-05-31 14:17:23,263 - geventwebsocket.handler - INFO - 127.0.0.1 - - [2026-05-31 14:17:23] "GET /eel.js HTTP/1.1" 200 6025 0.000000
+2026-05-31 14:17:23,264 - geventwebsocket.handler - INFO - 127.0.0.1 - - [2026-05-31 14:17:23] "GET /controller.js HTTP/1.1" 200 2128 0.000000
+2026-05-31 14:17:24,888 - comtypes.client._code_cache - INFO - Imported existing <module 'comtypes.gen' from 'C:\\Users\\admin\\Desktop\\Jarvis\\jarvis-main\\venv\\Lib\\site-packages\\comtypes\\gen\\__init__.py'>
+2026-05-31 14:17:24,888 - comtypes.client._code_cache - INFO - Using writeable comtypes cache directory: 'C:\Users\admin\Desktop\Jarvis\jarvis-main\venv\Lib\site-packages\comtypes\gen'
+2026-05-31 14:42:25,955 - geventwebsocket.handler - INFO - 127.0.0.1 - - [2026-05-31 14:42:25] "GET /index.html HTTP/1.1" 200 16365 0.001000
+2026-05-31 14:42:25,970 - geventwebsocket.handler - INFO - 127.0.0.1 - - [2026-05-31 14:42:25] "GET /assets/vendore/texllate/animate.css HTTP/1.1" 200 61438 0.001322
+2026-05-31 14:42:25,971 - geventwebsocket.handler - INFO - 127.0.0.1 - - [2026-05-31 14:42:25] "GET /style.css HTTP/1.1" 200 21256 0.001352
+2026-05-31 14:42:25,975 - geventwebsocket.handler - INFO - 127.0.0.1 - - [2026-05-31 14:42:25] "GET /script.js HTTP/1.1" 200 8775 0.000000
+2026-05-31 14:42:25,978 - geventwebsocket.handler - INFO - 127.0.0.1 - - [2026-05-31 14:42:25] "GET /assets/vendore/texllate/jquery.fittext.js HTTP/1.1" 200 1340 0.001364
+2026-05-31 14:42:25,980 - geventwebsocket.handler - INFO - 127.0.0.1 - - [2026-05-31 14:42:25] "GET /assets/vendore/texllate/jquery.lettering.js HTTP/1.1" 200 2223 0.000996
+2026-05-31 14:42:25,981 - geventwebsocket.handler - INFO - 127.0.0.1 - - [2026-05-31 14:42:25] "GET /main.js HTTP/1.1" 200 10016 0.001173
+2026-05-31 14:42:25,982 - geventwebsocket.handler - INFO - 127.0.0.1 - - [2026-05-31 14:42:25] "GET /eel.js HTTP/1.1" 200 6025 0.000000
+2026-05-31 14:42:25,983 - geventwebsocket.handler - INFO - 127.0.0.1 - - [2026-05-31 14:42:25] "GET /controller.js HTTP/1.1" 200 3216 0.001336
+2026-05-31 14:42:27,621 - comtypes.client._code_cache - INFO - Imported existing <module 'comtypes.gen' from 'C:\\Users\\admin\\Desktop\\Jarvis\\jarvis-main\\venv\\Lib\\site-packages\\comtypes\\gen\\__init__.py'>
+2026-05-31 14:42:27,621 - comtypes.client._code_cache - INFO - Using writeable comtypes cache directory: 'C:\Users\admin\Desktop\Jarvis\jarvis-main\venv\Lib\site-packages\comtypes\gen'
+2026-05-31 14:49:02,800 - geventwebsocket.handler - INFO - 127.0.0.1 - - [2026-05-31 14:49:02] "GET /index.html HTTP/1.1" 200 16365 0.001000
+2026-05-31 14:49:02,815 - geventwebsocket.handler - INFO - 127.0.0.1 - - [2026-05-31 14:49:02] "GET /assets/vendore/texllate/animate.css HTTP/1.1" 200 61438 0.000000
+2026-05-31 14:49:02,816 - geventwebsocket.handler - INFO - 127.0.0.1 - - [2026-05-31 14:49:02] "GET /style.css HTTP/1.1" 200 21256 0.001002
+2026-05-31 14:49:02,820 - geventwebsocket.handler - INFO - 127.0.0.1 - - [2026-05-31 14:49:02] "GET /script.js HTTP/1.1" 200 8775 0.000000
+2026-05-31 14:49:02,823 - geventwebsocket.handler - INFO - 127.0.0.1 - - [2026-05-31 14:49:02] "GET /assets/vendore/texllate/jquery.fittext.js HTTP/1.1" 200 1340 0.000997
+2026-05-31 14:49:02,824 - geventwebsocket.handler - INFO - 127.0.0.1 - - [2026-05-31 14:49:02] "GET /assets/vendore/texllate/jquery.lettering.js HTTP/1.1" 200 2223 0.001002
+2026-05-31 14:49:02,826 - geventwebsocket.handler - INFO - 127.0.0.1 - - [2026-05-31 14:49:02] "GET /main.js HTTP/1.1" 200 10016 0.000000
+2026-05-31 14:49:02,827 - geventwebsocket.handler - INFO - 127.0.0.1 - - [2026-05-31 14:49:02] "GET /eel.js HTTP/1.1" 200 6025 0.000000
+2026-05-31 14:49:02,829 - geventwebsocket.handler - INFO - 127.0.0.1 - - [2026-05-31 14:49:02] "GET /controller.js HTTP/1.1" 200 3216 0.001397
+2026-05-31 14:49:04,470 - comtypes.client._code_cache - INFO - Imported existing <module 'comtypes.gen' from 'C:\\Users\\admin\\Desktop\\Jarvis\\jarvis-main\\venv\\Lib\\site-packages\\comtypes\\gen\\__init__.py'>
+2026-05-31 14:49:04,471 - comtypes.client._code_cache - INFO - Using writeable comtypes cache directory: 'C:\Users\admin\Desktop\Jarvis\jarvis-main\venv\Lib\site-packages\comtypes\gen'
+2026-05-31 14:54:12,079 - geventwebsocket.handler - INFO - 127.0.0.1 - - [2026-05-31 14:54:12] "GET /index.html HTTP/1.1" 200 16365 0.000996
+2026-05-31 14:54:12,093 - geventwebsocket.handler - INFO - 127.0.0.1 - - [2026-05-31 14:54:12] "GET /assets/vendore/texllate/animate.css HTTP/1.1" 200 61438 0.002000
+2026-05-31 14:54:12,094 - geventwebsocket.handler - INFO - 127.0.0.1 - - [2026-05-31 14:54:12] "GET /style.css HTTP/1.1" 200 21256 0.000000
+2026-05-31 14:54:12,100 - geventwebsocket.handler - INFO - 127.0.0.1 - - [2026-05-31 14:54:12] "GET /script.js HTTP/1.1" 200 8775 0.000000
+2026-05-31 14:54:12,102 - geventwebsocket.handler - INFO - 127.0.0.1 - - [2026-05-31 14:54:12] "GET /assets/vendore/texllate/jquery.fittext.js HTTP/1.1" 200 1340 0.001077
+2026-05-31 14:54:12,103 - geventwebsocket.handler - INFO - 127.0.0.1 - - [2026-05-31 14:54:12] "GET /assets/vendore/texllate/jquery.lettering.js HTTP/1.1" 200 2223 0.000000
+2026-05-31 14:54:12,105 - geventwebsocket.handler - INFO - 127.0.0.1 - - [2026-05-31 14:54:12] "GET /main.js HTTP/1.1" 200 10016 0.001004
+2026-05-31 14:54:12,106 - geventwebsocket.handler - INFO - 127.0.0.1 - - [2026-05-31 14:54:12] "GET /eel.js HTTP/1.1" 200 6025 0.000997
+2026-05-31 14:54:12,107 - geventwebsocket.handler - INFO - 127.0.0.1 - - [2026-05-31 14:54:12] "GET /controller.js HTTP/1.1" 200 3216 0.001001
+2026-05-31 14:54:13,731 - comtypes.client._code_cache - INFO - Imported existing <module 'comtypes.gen' from 'C:\\Users\\admin\\Desktop\\Jarvis\\jarvis-main\\venv\\Lib\\site-packages\\comtypes\\gen\\__init__.py'>
+2026-05-31 14:54:13,731 - comtypes.client._code_cache - INFO - Using writeable comtypes cache directory: 'C:\Users\admin\Desktop\Jarvis\jarvis-main\venv\Lib\site-packages\comtypes\gen'

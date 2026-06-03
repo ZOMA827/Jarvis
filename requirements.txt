@@ -1,0 +1,34 @@
+# Core Framework (إطار العمل الأساسي والواجهة)
+eel>=0.17.0
+flask>=3.0.0
+
+# Audio Processing (الصوت والتعرف على الكلام)
+pyttsx3>=2.90
+SpeechRecognition>=3.10.4
+pyaudio
+pygame>=2.6.0
+
+# Computer Vision & Face Recognition (الرؤية الحاسوبية ومعالجة البيانات)
+opencv-python>=4.10.0.84
+numpy>=1.26.4
+
+# AI & Machine Learning (الذكاء الاصطناعي)
+hugchat>=0.4.0
+pvporcupine>=3.0.2
+
+# System Integration (التحكم في النظام والواتساب)
+pyautogui>=0.9.54
+pywhatkit>=5.4
+
+# Web & HTTP (الاتصالات والإنترنت)
+requests>=2.32.0
+httpx>=0.27.0
+
+# Utilities (أدوات مساعدة)
+pillow>=10.3.0
+python-dotenv>=1.0.1
+colorama>=0.4.6
+
+# Natural Language Processing (المعالجة اللغوية السريعة المتوافقة مع 2026)
+rapidfuzz>=3.9.0
+python-Levenshtein>=0.25.0

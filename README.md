@@ -1,8 +1,8 @@
 <div align="center">
 
-# Jarvis AI Assistant
+# JRAVIST — Holographic AI Core
 
-### *Your Personal Voice-Controlled AI Companion*
+### *Advanced Voice-Controlled AI Operating System*
 
 [![Python Version](https://img.shields.io/badge/python-3.10+-blue.svg?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/downloads/)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg?style=for-the-badge)](https://opensource.org/licenses/MIT)
@@ -11,11 +11,11 @@
 [![Forks](https://img.shields.io/github/forks/vannu07/jarvis?style=for-the-badge&logo=github)](https://github.com/vannu07/jarvis/network)
 [![CodeQL](https://github.com/vannu07/jarvis/actions/workflows/codeql-analysis.yml/badge.svg)](https://github.com/vannu07/jarvis/actions/workflows/codeql-analysis.yml)
 
-<img src="https://raw.githubusercontent.com/vannu07/jarvis/main/frontend/assets/img/logo.ico" alt="Jarvis Logo" width="150"/>
+<img src="https://raw.githubusercontent.com/vannu07/jarvis/main/frontend/assets/img/logo.ico" alt="JRAVIST Logo" width="150"/>
 
-*A production-ready voice assistant with facial recognition authentication, built on modern Python architecture and web technologies.*
+*A production-ready holographic AI assistant powered by Google Gemini 2.5 Flash, with automatic function calling, a spatial holographic UI, and biometric authentication.*
 
-[Features](#features) • [Installation](#installation) • [Usage](#usage) • [Documentation](#development) • [Contributing](#contributing)
+[Features](#features) • [Installation](#installation) • [API Keys](#api-keys--required) • [Usage](#usage) • [Documentation](#development) • [Contributing](#contributing)
 
 ---
 
@@ -25,15 +25,17 @@
 
 ## Overview
 
-Jarvis is an intelligent voice assistant that combines speech recognition, natural language processing, and computer vision to provide a seamless user experience. The system features biometric authentication, hotword detection, and extensive integration with popular platforms.
+JRAVIST is an intelligent holographic AI assistant that combines speech recognition, Gemini-powered natural language processing, automatic function calling, and computer vision to deliver a cinematic, spatial computing experience. The system features biometric authentication, a deep-space holographic UI with orbital rings and floating information nodes, and a direct bridge between voice commands and system actions — all powered by your own Google Gemini API keys.
+
+> **⚠️ Important:** JRAVIST requires your own API keys to function. The system does **not** include any pre-configured credentials. See the [API Keys](#api-keys--required) section below before running the project.
 
 <div align="center">
 
 ## Key Features
 
-| Voice Control | Face Recognition | Hotword Detection | Web Integration |
+| Holographic UI | Gemini AI Core | Face Recognition | Voice Control |
 |:---:|:---:|:---:|:---:|
-| Advanced speech-to-text | Secure biometric auth | Always-on wake word | Modern responsive UI |
+| Spatial floating nodes & blades | Gemini 2.5 Flash + Auto Function Calling | Secure biometric auth | Always-on wake word |
 
 </div>
 
@@ -45,12 +47,26 @@ Jarvis is an intelligent voice assistant that combines speech recognition, natur
 
 **Voice & AI**
 - Real-time Speech Recognition using Google STT
-- Natural Language Processing with Hugging Face
+- **Google Gemini 2.5 Flash** as the AI brain (replaces HugChat)
+- **Automatic Function Calling** — Gemini decides which tool to invoke
+- **Multi-key rotation system** — automatically switches API keys on quota exhaustion
 - Text-to-Speech with customizable voices
 - Audio Visualization in real-time
 - Wake Word Detection ("Jarvis", "Alexa")
 
 </td>
+<td width="50%">
+
+**Holographic Interface (New)**
+- **Information Blade** — slides in for code & intelligence reports
+- **Floating Search Nodes** — draggable glassmorphic result windows
+- **Kinetic Core** — orbital rings that change color per AI mode
+- **Live Mode Indicator** — STANDBY / LISTENING / THINKING / SEARCHING / VISION
+- Deep Space & Neon color palette (cyan `#00c8ff`, amber `#ffc800`, pink `#ff3c78`)
+
+</td>
+</tr>
+<tr>
 <td width="50%">
 
 **Smart Integrations**
@@ -60,6 +76,16 @@ Jarvis is an intelligent voice assistant that combines speech recognition, natur
 - Contact Management with voice lookup
 - Web Browsing through voice
 - Weather Forecasts via OpenWeatherMap API
+
+</td>
+<td width="50%">
+
+**Holographic AI Tools (New)**
+- `show_code_on_screen` — renders code in the Code Blade with syntax highlighting
+- `create_search_node` — spawns a floating info node on the UI
+- `show_intelligence_report` — opens the full Report Blade for long-form content
+- `change_interface_mode` — switches the UI color theme dynamically
+- `show_system_notification` — fires a HUD toast alert
 
 </td>
 </tr>
@@ -73,8 +99,8 @@ Jarvis is an intelligent voice assistant that combines speech recognition, natur
 
 ### Backend Technologies
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Google Gemini](https://img.shields.io/badge/Gemini_2.5_Flash-4285F4?style=for-the-badge&logo=google&logoColor=white)
 ![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
-![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
 
 ### Frontend Technologies
@@ -82,10 +108,11 @@ Jarvis is an intelligent voice assistant that combines speech recognition, natur
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
+![Rajdhani](https://img.shields.io/badge/Font-Rajdhani-00c8ff?style=for-the-badge)
 
 ### AI & ML
-![Hugging Face](https://img.shields.io/badge/Hugging%20Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![Google Gemini](https://img.shields.io/badge/Google_Gemini-4285F4?style=for-the-badge&logo=google&logoColor=white)
+![Function Calling](https://img.shields.io/badge/Auto_Function_Calling-34A853?style=for-the-badge&logo=google&logoColor=white)
 
 ### Tools & Libraries
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
@@ -102,30 +129,43 @@ Jarvis is an intelligent voice assistant that combines speech recognition, natur
 
 ```mermaid
 graph TD
-    A[Web Frontend] -->|Eel Bridge| B[Main Process]
+    A[Holographic Web Frontend] -->|Eel Bridge| B[Main Process]
     B --> C[Speech Recognition]
     B --> D[Face Authentication]
     B --> E[Hotword Detection]
-    C --> F[Command Parser]
-    F --> G[Feature Handlers]
-    G --> H[SQLite Database]
-    G --> I[WhatsApp Integration]
-    G --> J[YouTube Control]
-    G --> K[AI Chatbot]
+    C --> F[takeAllCommands]
+    F --> G[Gemini 2.5 Flash]
+    G -->|Auto Function Calling| H[Tool Router]
+    H --> H1[show_code_on_screen]
+    H --> H2[create_search_node]
+    H --> H3[show_intelligence_report]
+    H --> H4[open_application]
+    H --> H5[check_weather]
+    H --> H6[handle_whatsapp]
+    H1 -->|eel.showCodeInBlade| A
+    H2 -->|eel.createSearchNode| A
+    H3 -->|eel.showIntelligenceReport| A
+    H4 --> I[Feature Handlers]
+    H5 --> I
+    H6 --> I
+    I --> J[SQLite Database]
 
-    %% Consistent style for all nodes
-    style A fill:#ede7f6,stroke:#4a148c,stroke-width:1px,color:#212121
-    style B fill:#ede7f6,stroke:#4a148c,stroke-width:1px,color:#212121
-    style C fill:#ede7f6,stroke:#4a148c,stroke-width:1px,color:#212121
-    style D fill:#ede7f6,stroke:#4a148c,stroke-width:1px,color:#212121
-    style E fill:#ede7f6,stroke:#4a148c,stroke-width:1px,color:#212121
-    style F fill:#ede7f6,stroke:#4a148c,stroke-width:1px,color:#212121
-    style G fill:#ede7f6,stroke:#4a148c,stroke-width:1px,color:#212121
-    style H fill:#ede7f6,stroke:#4a148c,stroke-width:1px,color:#212121
-    style I fill:#ede7f6,stroke:#4a148c,stroke-width:1px,color:#212121
-    style J fill:#ede7f6,stroke:#4a148c,stroke-width:1px,color:#212121
-    style K fill:#ede7f6,stroke:#4a148c,stroke-width:1px,color:#212121
-
+    style A fill:#0a111e,stroke:#00c8ff,stroke-width:2px,color:#e0f4ff
+    style B fill:#0a111e,stroke:#00c8ff,stroke-width:1px,color:#e0f4ff
+    style C fill:#0a111e,stroke:#00c8ff,stroke-width:1px,color:#e0f4ff
+    style D fill:#0a111e,stroke:#00c8ff,stroke-width:1px,color:#e0f4ff
+    style E fill:#0a111e,stroke:#00c8ff,stroke-width:1px,color:#e0f4ff
+    style F fill:#0a111e,stroke:#00c8ff,stroke-width:1px,color:#e0f4ff
+    style G fill:#112036,stroke:#b47bff,stroke-width:2px,color:#e0f4ff
+    style H fill:#0a111e,stroke:#ffc800,stroke-width:1px,color:#e0f4ff
+    style H1 fill:#0a111e,stroke:#00c8ff,stroke-width:1px,color:#e0f4ff
+    style H2 fill:#0a111e,stroke:#00c8ff,stroke-width:1px,color:#e0f4ff
+    style H3 fill:#0a111e,stroke:#ffc800,stroke-width:1px,color:#e0f4ff
+    style H4 fill:#0a111e,stroke:#00c8ff,stroke-width:1px,color:#e0f4ff
+    style H5 fill:#0a111e,stroke:#00c8ff,stroke-width:1px,color:#e0f4ff
+    style H6 fill:#0a111e,stroke:#00c8ff,stroke-width:1px,color:#e0f4ff
+    style I fill:#0a111e,stroke:#00c8ff,stroke-width:1px,color:#e0f4ff
+    style J fill:#0a111e,stroke:#00c8ff,stroke-width:1px,color:#e0f4ff
 ```
 
 </div>
@@ -160,6 +200,82 @@ Audio Output: Speakers/Headphones
 </td>
 </tr>
 </table>
+
+---
+
+## API Keys — Required
+
+> **JRAVIST will not start without valid API keys.** The project ships with no pre-configured credentials. You must obtain your own keys and configure them before running.
+
+### 1. Google Gemini API Keys (Core AI — Required)
+
+Gemini is the brain of JRAVIST. You need **at least one key**, but adding multiple keys enables the automatic rotation system that prevents quota interruptions.
+
+1. Go to [Google AI Studio](https://aistudio.google.com/app/apikey)
+2. Sign in with your Google account
+3. Click **"Create API Key"**
+4. Copy the key (starts with `AIza...`)
+5. Open `backend/command.py` and add your keys to the list:
+
+```python
+GEMINI_API_KEYS = [
+    "AIzaSy_YOUR_FIRST_KEY_HERE",
+    "AIzaSy_YOUR_SECOND_KEY_HERE",   # optional but recommended
+    "AIzaSy_YOUR_THIRD_KEY_HERE",    # optional
+]
+```
+
+> **Tip:** Gemini's free tier gives 1,500 requests/day per key. Adding 2–3 keys means JRAVIST can handle much heavier use before hitting limits.
+
+---
+
+### 2. OpenWeatherMap API Key (Weather — Required for weather commands)
+
+1. Sign up for free at [openweathermap.org](https://openweathermap.org/api)
+2. Navigate to **My API Keys** and copy your key
+3. Add it to your `.env` file:
+
+```env
+OPENWEATHERMAP_API_KEY=your_openweathermap_key_here
+```
+
+---
+
+### 3. Picovoice Porcupine Key (Wake Word — Required for hotword detection)
+
+1. Sign up at [picovoice.ai](https://console.picovoice.ai/)
+2. Create a new project and copy your **AccessKey**
+3. Add it to your `.env` file:
+
+```env
+PORCUPINE_ACCESS_KEY=your_porcupine_key_here
+```
+
+---
+
+### 4. Full `.env` Template
+
+Create a `.env` file in the project root with all your keys:
+
+```env
+# ── Gemini keys are configured directly in backend/command.py ──
+
+# Wake Word Detection
+PORCUPINE_ACCESS_KEY=your_porcupine_key_here
+
+# Weather
+OPENWEATHERMAP_API_KEY=your_openweathermap_key_here
+
+# Voice Settings
+TTS_RATE=150
+TTS_VOICE=0
+
+# Recognition Settings
+FACE_CONFIDENCE_THRESHOLD=50
+HOTWORD_SENSITIVITY=0.5
+```
+
+> **Note:** Gemini API keys go directly into `GEMINI_API_KEYS` list in `backend/command.py`, not in the `.env` file. This allows the multi-key rotation system to work correctly.
 
 ---
 
@@ -203,25 +319,11 @@ source venv/bin/activate
 pip install -r requirements.txt
 ```
 
-### Step 4: Configure Environment
+> **Note:** `google-generativeai` is now a required dependency (replaces `hugchat`). Make sure your Python environment has internet access during install.
 
-Create a `.env` file:
+### Step 4: Configure Your API Keys
 
-```env
-# API Keys
-HUGGINGFACE_TOKEN=your_token_here
-PORCUPINE_ACCESS_KEY=your_key_here
-NEWSAPI_KEY=your_newsapi_key
-OPENWEATHERMAP_API_KEY=your_openweathermap_api_key
-
-# Voice Settings
-TTS_RATE=150
-TTS_VOICE=0
-
-# Recognition Settings
-FACE_CONFIDENCE_THRESHOLD=50
-HOTWORD_SENSITIVITY=0.5
-```
+Follow the [API Keys](#api-keys--required) section above to add your Gemini keys to `backend/command.py` and create your `.env` file.
 
 ### Step 5: Train Face Recognition (Optional)
 
@@ -237,7 +339,7 @@ python backend/auth/trainer.py
 python run.py
 ```
 
-**Jarvis will launch at** `http://localhost:8000`
+**JRAVIST will launch at** `http://localhost:8000`
 
 </div>
 
@@ -295,18 +397,52 @@ Jarvis, forecast Paris
 ```
 
 </td>
-<td width="66%" colspan="2">
+<td width="33%">
 
-#### AI Assistant
+#### AI & Code (New)
 ```
-Jarvis, what is the capital of France?
-Jarvis, tell me a joke
-Jarvis, help me with Python
+Jarvis, write a Python script
+Jarvis, explain how TCP works
+Jarvis, search for quantum computing
+Jarvis, give me a report on AI
+```
+
+</td>
+<td width="33%">
+
+#### Interface Control (New)
+```
+Jarvis, switch to search mode
+Jarvis, switch to vision mode
+Jarvis, switch to idle mode
 ```
 
 </td>
 </tr>
 </table>
+
+### How Gemini Function Calling Works
+
+When you give JRAVIST a command, it goes directly to **Gemini 2.5 Flash**. Gemini reads the command and automatically decides which tool to call — no manual `if/elif` parsing needed:
+
+| You say | Gemini calls |
+|:--------|:-------------|
+| "Write me a Python class for a linked list" | `show_code_on_screen(code)` → opens Code Blade |
+| "What is quantum entanglement?" | `create_search_node(title, summary)` → spawns floating node |
+| "Give me a full report on climate change" | `show_intelligence_report(title, content)` → opens Report Blade |
+| "Open Chrome" | `open_application("Chrome")` |
+| "Switch to search mode" | `change_interface_mode("search")` → UI turns amber |
+
+### Holographic Interface Elements
+
+| Element | How to trigger |
+|:--------|:--------------|
+| **Code Blade** | Ask Gemini to write any code |
+| **Report Blade** | Ask for a full report or analysis |
+| **Search Nodes** | Ask for a quick fact or definition |
+| **Mode change** | Say "switch to [mode] mode" or Gemini decides |
+| **Mic / Voice** | Click mic button or press `⌘J` |
+| **Interaction Log** | Click the chat icon in the input bar |
 
 ### Keyboard Shortcuts
 
@@ -314,8 +450,8 @@ Jarvis, help me with Python
 
 | Shortcut | Action |
 |:--------:|:------:|
-| `Win + J` (Windows) | Manual Activation |
-| `Cmd + J` (macOS) | Manual Activation |
+| `Win + J` (Windows) | Manual Voice Activation |
+| `Cmd + J` (macOS) | Manual Voice Activation |
 | `Ctrl + Q` | Quit Application |
 | `F11` | Fullscreen Toggle |
 
@@ -329,7 +465,7 @@ Say **"Jarvis"** or **"Alexa"** followed by your command
 
 ## Weather Feature
 
-Jarvis integrates with OpenWeatherMap API to provide real-time weather updates and forecasts.
+JRAVIST integrates with OpenWeatherMap API to provide real-time weather updates and forecasts via Gemini's automatic function calling.
 
 ### Setup OpenWeatherMap API
 
@@ -390,28 +526,28 @@ python -m testing.weather_test
 ## Project Structure
 
 ```
-jarvis/
+jravist/
 ├── backend/
 │   ├── auth/
 │   │   ├── haarcascade_frontalface_default.xml
 │   │   ├── recognize.py        # Face recognition
 │   │   ├── trainer.py          # Model training
 │   │   └── trainer/            # Trained models
-│   ├── command.py              # Command parser
+│   ├── command.py              # Gemini core + tool definitions + key rotation
 │   ├── config.py               # Configuration
 │   ├── db.py                   # Database ops
-│   ├── feature.py              # Feature handlers
+│   ├── feature.py              # Feature handlers (open apps, weather, WhatsApp…)
 │   └── helper.py               # Utilities
 ├── frontend/
 │   ├── assets/
 │   │   ├── audio/              # Sound files
 │   │   ├── img/                # Images & icons
-│   │   └── vendor/             # Third-party libs
-│   ├── index.html              # Main UI
-│   ├── style.css               # Styles
-│   ├── script.js               # Particle effects
-│   ├── main.js                 # Core logic
-│   └── controller.js           # Event handlers
+│   │   └── vendor/             # Third-party libs (textillate, etc.)
+│   ├── index.html              # Holographic UI shell
+│   ├── style.css               # Deep Space & Neon styles
+│   ├── script.js               # Particle sphere (Kinetic Core canvas)
+│   ├── main.js                 # UI logic, blade panels, search nodes, mode manager
+│   └── controller.js           # eel.expose() bindings (Python ↔ JS bridge)
 ├── main.py                     # Entry point
 ├── run.py                      # Launcher
 ├── weather_fetcher.py          # Weather module
@@ -419,31 +555,59 @@ jarvis/
 ├── testing/
 │   ├── weather_test.py         # Weather tests
 │   └── text_test.py            # Command parser tests
-└── jarvis.db                  # SQLite DB
+└── jarvis.db                   # SQLite DB
 ```
 
 ---
 
 ## Development
 
-### Adding Custom Commands
+### Adding a New Holographic Tool
 
-**1. Define Command Pattern**
+JRAVIST uses Gemini's **automatic function calling**. To add a new tool that Gemini can invoke:
 
-Edit `backend/command.py`:
+**1. Define the tool function in `backend/command.py`**
 
 ```python
-def parse_command(query: str) -> dict:
-    if "my custom action" in query.lower():
-        return {
-            "action": "custom_action",
-            "params": {"param1": "value1"}
-        }
+def my_new_tool(param1: str, param2: int = 5):
+    """
+    Describe clearly what this tool does so Gemini knows when to call it.
+    Be specific — Gemini reads this docstring to decide when to use the tool.
+    """
+    # your logic here
+    eel.myFrontendFunction(param1, param2)  # optional: update the UI
+    return f"Tool completed for {param1}"
 ```
 
-**2. Implement Handler**
+**2. Register it in the `all_tools` list inside `init_gemini_chat()`**
 
-Edit `backend/feature.py`:
+```python
+all_tools = [
+    open_application,
+    play_on_youtube,
+    # ...existing tools...
+    my_new_tool,     # <-- add here
+]
+```
+
+**3. If it needs a frontend action, add the matching `eel.expose()` in `controller.js`**
+
+```javascript
+eel.expose(myFrontendFunction);
+function myFrontendFunction(param1, param2) {
+    // update the holographic UI
+}
+```
+
+Gemini will now automatically call your tool whenever it decides it fits the user's request — no manual parsing required.
+
+---
+
+### Adding Classic Commands (feature.py)
+
+For system-level actions that don't need AI judgment, add them to `backend/feature.py` and expose them as a tool:
+
+**1. Implement in `feature.py`:**
 
 ```python
 def handle_custom_action(params: dict) -> str:
@@ -451,14 +615,17 @@ def handle_custom_action(params: dict) -> str:
     return f"Action completed: {result}"
 ```
 
-**3. Register Command**
+**2. Wrap as a tool in `command.py`:**
 
 ```python
-COMMAND_HANDLERS = {
-    "custom_action": handle_custom_action,
-    # ... other handlers
-}
+def my_action_tool(action_target: str):
+    """Use this tool when the user asks to perform [specific action]."""
+    from backend.feature import handle_custom_action
+    handle_custom_action({"target": action_target})
+    return f"Done: {action_target}"
 ```
+
+---
 
 ### Database Schema
 
@@ -539,8 +706,8 @@ CMD ["python", "run.py"]
 
 **Build & Run:**
 ```bash
-docker build -t jarvis-ai .
-docker run -p 8000:8000 -v $(pwd)/jarvis.db:/app/jarvis.db jarvis-ai
+docker build -t jravist-ai .
+docker run -p 8000:8000 -v $(pwd)/jarvis.db:/app/jarvis.db jravist-ai
 ```
 
 ---
@@ -564,6 +731,22 @@ docker run -p 8000:8000 -v $(pwd)/jarvis.db:/app/jarvis.db jarvis-ai
 ---
 
 ## Troubleshooting
+
+### Gemini API Key Issues
+
+**"All keys exhausted their daily quota"**
+- Add more keys to the `GEMINI_API_KEYS` list in `backend/command.py`
+- Free tier: 1,500 requests/day per key — 3 keys = ~4,500 requests/day
+
+**"API key not valid"**
+- Make sure the key starts with `AIza`
+- Regenerate at [Google AI Studio](https://aistudio.google.com/app/apikey)
+
+**Function calling not triggering UI tools**
+- Check that `eel.showCodeInBlade`, `eel.createSearchNode`, and `eel.showIntelligenceReport` are exposed in `controller.js`
+- Make sure Gemini's tool docstrings are clear and specific
+
+---
 
 ### PyAudio Installation Fails
 
@@ -602,7 +785,7 @@ pip install pyaudio
    ```bash
    python -m speech_recognition
    ```
-3. Verify internet connection
+3. Verify internet connection (required for Google STT and Gemini)
 4. Try different microphone device
 
 ### Module Import Errors
@@ -655,16 +838,16 @@ type(scope): subject
 
 **Example:**
 ```bash
-git commit -m "feat(voice): add support for multiple languages"
-git commit -m "fix(face): improve recognition accuracy in low light"
-git commit -m "docs(readme): update installation instructions"
+git commit -m "feat(tools): add new holographic tool for calendar"
+git commit -m "fix(gemini): improve key rotation on quota error"
+git commit -m "docs(readme): update API key setup instructions"
 ```
 
 ### Code Style
 
 - Follow PEP 8 for Python code
 - Use type hints where applicable
-- Write docstrings for public functions
+- Write docstrings for public functions — Gemini reads them for tool selection
 - Run `black` and `flake8` before committing
 - Add unit tests for new features
 
@@ -737,9 +920,9 @@ See [LICENSE](LICENSE) file for details
 Special thanks to these amazing projects:
 
 [![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)](https://opencv.org/)
-[![Google](https://img.shields.io/badge/Google-4285F4?style=for-the-badge&logo=google&logoColor=white)](https://cloud.google.com/speech-to-text)
-[![Hugging Face](https://img.shields.io/badge/Hugging%20Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)](https://huggingface.co/)
+[![Google](https://img.shields.io/badge/Google_Gemini-4285F4?style=for-the-badge&logo=google&logoColor=white)](https://ai.google.dev/)
 [![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)](https://getbootstrap.com/)
+[![Rajdhani](https://img.shields.io/badge/Font-Rajdhani-00c8ff?style=for-the-badge)](https://fonts.google.com/specimen/Rajdhani)
 
 </div>
 
@@ -761,7 +944,7 @@ If you find this project helpful, please consider starring the repository
 
 [![Star History Chart](https://api.star-history.com/svg?repos=vannu07/jarvis&type=Date)](https://star-history.com/#vannu07/jarvis&Date)
 
-**Made with Python**
+**Made with Python & Google Gemini**
 
 ![](https://img.shields.io/github/stars/vannu07/jarvis?style=social)
 ![](https://img.shields.io/github/forks/vannu07/jarvis?style=social)

@@ -15,7 +15,7 @@
 [![Portfolio](https://img.shields.io/badge/Portfolio-lakhdari--workspace-00c8ff?style=for-the-badge&logo=firefox&logoColor=white)](https://lakhdari-workspace.web.app/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Ilyes_Lakhdari-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/lakhdari-ilyes-6359b8351)
 
-<img src="https://raw.githubusercontent.com/ZOMA827/jravist/main/frontend/assets/img/logo.ico" alt="JRAVIST Logo" width="150"/>
+<img src="https://raw.githubusercontent.com/ZOMA827/jravist/frontend/assets/img/logo.ico" alt="JRAVIST Logo" width="150"/>
 
 *A production-ready holographic AI assistant powered by Google Gemini 2.5 Flash, with automatic function calling, a spatial holographic UI, and biometric authentication.*
 
